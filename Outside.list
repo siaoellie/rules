@@ -104,3 +104,5 @@ ip6-cidr,2001:b28:f23f::/48,Outside
 ip6-cidr,2a0a:f280::/32,Outside
 user-agent, PayPal*, Outside
 host-suffix, threads.com, Outside
+host, officeci-mauservice.azurewebsites.net, Outside
+host, mobile.events.data.microsoft.com, Outside
