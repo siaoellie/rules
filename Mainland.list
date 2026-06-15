@@ -377,3 +377,6 @@ host-suffix, xiaohongshu.net, Mainland
 host-suffix, autohome.com, Mainland
 host-suffix, dongchedi.com, Mainland
 host, shuc-other.ksord.com, Mainland
+host-suffix, askdiandian.com, Mainland
+host-suffix, qrstuvwxyzab.com, Mainland
+ip-cidr, 106.14.13.140/32, Mainland
