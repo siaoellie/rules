@@ -1,0 +1,105 @@
+host-suffix, sentry.io, Outside
+host-suffix, segment.io, Outside
+host-suffix, revenuecat.com, Outside
+host-suffix, firecore.com, Outside
+host-suffix, whatsapp.com, Outside
+host-suffix, whatsapp.net, Outside
+host-suffix, zoom.us, Outside
+host-suffix, zoom.com, Outside
+host-suffix, meet.google.com, Outside
+host-suffix, oculus.com, Outside
+host-suffix, facebook.com, Outside
+host-suffix, instagram.com, Outside
+host-suffix, threads.net, Outside
+host-suffix, meta.com, Outside
+host-suffix, microsoftonline.com, Outside
+host-suffix, office.com, Outside
+host-suffix, sharepoint.com, Outside
+host-suffix, live.com, Outside
+host-suffix, windows.net, Outside
+host-suffix, github.com, Outside
+host-suffix, github.io, Outside
+host-suffix, githubapp.com, Outside
+host-suffix, githubassets.com, Outside
+host-suffix, githubusercontent.com, Outside
+host-suffix, githubstatus.com, Outside
+host-suffix, gitlab.com, Outside
+host-suffix, bitbucket.org, Outside
+host-suffix, google.com, Outside
+host-suffix, googleapis.com, Outside
+host-suffix, gstatic.com, Outside
+host-suffix, googleusercontent.com, Outside
+host-suffix, 1e100.net, Outside
+host-suffix, ggpht.com, Outside
+host-suffix, gmail.com, Outside
+host-suffix, googlemail.com, Outside
+host-suffix, google.com.hk, Outside
+host-suffix, google.com.my, Outside
+host-suffix, x.com, Outside
+host-suffix, twitter.com, Outside
+host-suffix, twimg.com, Outside
+host-suffix, t.co, Outside
+host-suffix, discord.com, Outside
+host-suffix, discord.gg, Outside
+host-suffix, discordapp.com, Outside
+host-suffix, discordapp.net, Outside
+host-suffix, discordcdn.com, Outside
+host-suffix, telegram.org, Outside
+host-suffix, t.me, Outside
+host-suffix, tdesktop.com, Outside
+host-suffix, telegra.ph, Outside
+host-suffix, reddit.com, Outside
+host-suffix, redd.it, Outside
+host-suffix, redditmedia.com, Outside
+host-suffix, redditstatic.com, Outside
+host-suffix, wikipedia.org, Outside
+host-suffix, wikimedia.org, Outside
+host-suffix, wikibooks.org, Outside
+host-suffix, wikidata.org, Outside
+host-suffix, wikinews.org, Outside
+host-suffix, wikiquote.org, Outside
+host-suffix, wikisource.org, Outside
+host-suffix, wikiversity.org, Outside
+host-suffix, wikivoyage.org, Outside
+host-suffix, wiktionary.org, Outside
+host-suffix, dropbox.com, Outside
+host-suffix, dropboxapi.com, Outside
+host-suffix, dropboxusercontent.com, Outside
+host-suffix, dropboxstatic.com, Outside
+host-suffix, notion.so, Outside
+host-suffix, notion.site, Outside
+host-suffix, slack.com, Outside
+host-suffix, slack-edge.com, Outside
+host-suffix, slack-imgs.com, Outside
+host-suffix, slack-msgs.com, Outside
+host-suffix, slack-files.com, Outside
+host-suffix, pinterest.com, Outside
+host-suffix, pinimg.com, Outside
+host-suffix, paypal.com, Outside
+host-suffix, paypalobjects.com, Outside
+host-suffix, stripe.com, Outside
+host-suffix, stripe.network, Outside
+host-suffix, figma.com, Outside
+host-suffix, figma.net, Outside
+host-suffix, cloudflare.com, Outside
+host-suffix, cloudflareinsights.com, Outside
+host-suffix, cloudflare-dns.com, Outside
+host-suffix,tx.me,Outside
+host-suffix,telegram.me,Outside
+host-suffix,telegram-cdn.org,Outside
+host-suffix,cdn-telegram.org,Outside
+host-suffix,telesco.pe,Outside
+ip-cidr,91.105.192.0/23,Outside
+ip-cidr,91.108.56.0/22,Outside
+ip-cidr,91.108.4.0/22,Outside
+ip-cidr,91.108.8.0/22,Outside
+ip-cidr,91.108.12.0/22,Outside
+ip-cidr,91.108.16.0/22,Outside
+ip-cidr,91.108.20.0/22,Outside
+ip-cidr,149.154.160.0/20,Outside
+ip-cidr,185.76.151.0/24,Outside
+ip6-cidr,2001:67c:4e8::/48,Outside
+ip6-cidr,2001:b28:f23d::/48,Outside
+ip6-cidr,2001:b28:f23f::/48,Outside
+ip6-cidr,2a0a:f280::/32,Outside
+user-agent, PayPal*, Outside
