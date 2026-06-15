@@ -341,3 +341,4 @@ host-suffix, tmdb.org, Outside
 host-suffix, opensubtitles.com, Outside
 host-suffix, opensubtitles.org, Outside
 host, amp-api.podcasts.apple.com, Outside
+host-suffix, bugsnag.com, Outside
