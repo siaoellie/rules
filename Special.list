@@ -37,3 +37,6 @@ host-suffix, sandai.net, direct
 host, msmp.abchina.com.cn, reject
 host, ocsp.digicert.com, direct
 host, status.rapidssl.com, direct
+host, ocsp.sectigo.com, direct
+host-suffix, teamviewer.com, direct
+host-suffix, brother.co.jp, direct
