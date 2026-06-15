@@ -40,3 +40,5 @@ HOST-SUFFIX,livekit.cloud,AI Suite
 HOST,sydney.bing.com,AI Suite
 HOST-SUFFIX,grok.com,AI Suite
 HOST,rum.browser-intake-datadoghq.com,AI Suite
+HOST-SUFFIX,chat.com,AI Suite
+HOST-SUFFIX,openai.fm,AI Suite
