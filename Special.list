@@ -1,6 +1,6 @@
 host-suffix, alidns.com, direct
 host-suffix, doh.pub, direct
-ip-cidr, 119.29.29.0/24, direct
+ip-cidr, 119.29.29.29/32, direct
 ip-cidr, 120.53.53.53/32, direct
 ip-cidr, 1.12.12.12/32, direct
 ip-cidr, 223.6.6.6/32, direct
