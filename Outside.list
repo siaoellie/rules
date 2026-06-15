@@ -106,3 +106,4 @@ user-agent, PayPal*, Outside
 host-suffix, threads.com, Outside
 host, officeci-mauservice.azurewebsites.net, Outside
 host, mobile.events.data.microsoft.com, Outside
+host, apple-relay.fastly-edge.com, Outside
