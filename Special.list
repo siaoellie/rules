@@ -9,7 +9,6 @@ host-suffix, wgetcloud.online, Outside
 host-suffix, quantumult.app, Outside
 host-suffix, wgetcloud.org, Outside
 host, connect.rom.miui.com, direct
-host, msmp.abchina.com.cn, reject
 host-suffix, local, direct
 host, instant.arubanetworks.com, direct
 host, setmeup.arubanetworks.com, direct
