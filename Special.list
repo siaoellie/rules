@@ -35,3 +35,5 @@ host-suffix, msftconnecttest.com, direct
 host-suffix, xunlei.com, direct
 host-suffix, sandai.net, direct
 host, msmp.abchina.com.cn, reject
+host, ocsp.digicert.com, direct
+host, status.rapidssl.com, direct
