@@ -32,3 +32,4 @@ host-suffix, dl.google.com, direct
 host-suffix, msftconnecttest.com, direct
 host-suffix, xunlei.com, direct
 host-suffix, sandai.net, direct
+host, msmp.abchina.com.cn, reject
