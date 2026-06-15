@@ -84,24 +84,24 @@ host-suffix, figma.net, Outside
 host-suffix, cloudflare.com, Outside
 host-suffix, cloudflareinsights.com, Outside
 host-suffix, cloudflare-dns.com, Outside
-host-suffix,tx.me,Outside
-host-suffix,telegram.me,Outside
-host-suffix,telegram-cdn.org,Outside
-host-suffix,cdn-telegram.org,Outside
-host-suffix,telesco.pe,Outside
-ip-cidr,91.105.192.0/23,Outside
-ip-cidr,91.108.56.0/22,Outside
-ip-cidr,91.108.4.0/22,Outside
-ip-cidr,91.108.8.0/22,Outside
-ip-cidr,91.108.12.0/22,Outside
-ip-cidr,91.108.16.0/22,Outside
-ip-cidr,91.108.20.0/22,Outside
-ip-cidr,149.154.160.0/20,Outside
-ip-cidr,185.76.151.0/24,Outside
-ip6-cidr,2001:67c:4e8::/48,Outside
-ip6-cidr,2001:b28:f23d::/48,Outside
-ip6-cidr,2001:b28:f23f::/48,Outside
-ip6-cidr,2a0a:f280::/32,Outside
+host-suffix, tx.me, Outside
+host-suffix, telegram.me, Outside
+host-suffix, telegram-cdn.org, Outside
+host-suffix, cdn-telegram.org, Outside
+host-suffix, telesco.pe, Outside
+ip-cidr, 91.105.192.0/23, Outside
+ip-cidr, 91.108.56.0/22, Outside
+ip-cidr, 91.108.4.0/22, Outside
+ip-cidr, 91.108.8.0/22, Outside
+ip-cidr, 91.108.12.0/22, Outside
+ip-cidr, 91.108.16.0/22, Outside
+ip-cidr, 91.108.20.0/22, Outside
+ip-cidr, 149.154.160.0/20, Outside
+ip-cidr, 185.76.151.0/24, Outside
+ip6-cidr, 2001:67c:4e8::/48, Outside
+ip6-cidr, 2001:b28:f23d::/48, Outside
+ip6-cidr, 2001:b28:f23f::/48, Outside
+ip6-cidr, 2a0a:f280::/32, Outside
 user-agent, PayPal*, Outside
 host-suffix, threads.com, Outside
 host, officeci-mauservice.azurewebsites.net, Outside
