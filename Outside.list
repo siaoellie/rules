@@ -381,3 +381,10 @@ host-suffix, adapty.io, Outside
 host-suffix, ipify.org, Outside
 host-suffix, mixpanel.com, Outside
 host-suffix, branch.io, Outside
+host-suffix, zendesk.com, Outside
+host-suffix, agora.io, Outside
+ip-cidr, 52.54.85.111/32, Outside
+host-suffix, ns1p.net, Outside
+host-suffix, linkedin.com, Outside
+host-suffix, licdn.com, Outside
+host-suffix, singular.net, Outside
