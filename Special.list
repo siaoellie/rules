@@ -40,3 +40,6 @@ host, status.rapidssl.com, direct
 host, ocsp.sectigo.com, direct
 host-suffix, teamviewer.com, direct
 host-suffix, brother.co.jp, direct
+host, secure.globalsign.com, direct
+host, ap5-tls.agora.io, direct
+host, service.agora.io, direct
