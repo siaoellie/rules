@@ -49,3 +49,11 @@ host, play-edge.itunes.apple.com, Outside
 host, uts-api.itunes.apple.com, Outside
 host, amp-api.podcasts.apple.com, Outside
 host, apple-relay.fastly-edge.com, Outside
+host, known-issues.apple.com, Outside
+host, weather-analytics-events.apple.com, Outside
+host, gsa.apple.com, Outside
+host, gdmf.apple.com, Outside
+host, lcdn-locator.apple.com, Outside
+host, cma2.itunes.apple.com, Outside
+host, amp-api.videos.apple.com, Outside
+host-suffix, courier.push.apple.com, Outside
