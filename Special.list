@@ -43,3 +43,9 @@ host-suffix, brother.co.jp, direct
 host, secure.globalsign.com, direct
 host, ap5-tls.agora.io, direct
 host, service.agora.io, direct
+host-suffix, tv.apple.com, Outside
+host, np-edge.itunes.apple.com, Outside
+host, play-edge.itunes.apple.com, Outside
+host, uts-api.itunes.apple.com, Outside
+host, amp-api.podcasts.apple.com, Outside
+host, apple-relay.fastly-edge.com, Outside
