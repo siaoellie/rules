@@ -489,3 +489,12 @@ host-suffix, ksyuncs.com, Mainland
 host-suffix, kdocs.cn, Mainland
 host, sandbox.itunes.apple.com, Mainland
 host-suffix, ipip.net, Mainland
+host, init.ess.apple.com, Mainland
+host, iphone-ld.apple.com, Mainland
+host, amp-api-updates.apps.apple.com, Mainland
+host, static.gc.apple.com, Mainland
+host, init.gc.apple.com, Mainland
+host, pd.itunes.apple.com, Mainland
+host, amp-api-search-edge.apps.apple.com, Mainland
+host, amp-api.apps.apple.com, Mainland
+host, iadsdk.apple.com, Mainland
