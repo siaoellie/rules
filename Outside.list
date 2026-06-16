@@ -106,11 +106,9 @@ user-agent, PayPal*, Outside
 host-suffix, threads.com, Outside
 host, officeci-mauservice.azurewebsites.net, Outside
 host, mobile.events.data.microsoft.com, Outside
-host, apple-relay.fastly-edge.com, Outside
 host-suffix, cdninstagram.com, Outside
 host-suffix, fbcdn.net, Outside
 host-suffix, edgedatg.com, Outside
-host-suffix, go.com, Outside
 user-agent, AbemaTV*, Outside
 host-suffix, abema.io, Outside
 host-suffix, abema.tv, Outside
@@ -152,10 +150,6 @@ host, d25xi40x97liuc.cloudfront.net, Outside
 host, dmqdd6hw24ucf.cloudfront.net, Outside
 host, d27xxe7juh1us6.cloudfront.net, Outside
 host, dualstack.pefs-alb-266603904.eu-west-1.elb.amazonaws.com, Outside
-host-suffix, tv.apple.com, Outside
-host, np-edge.itunes.apple.com, Outside
-host, play-edge.itunes.apple.com, Outside
-host, uts-api.itunes.apple.com, Outside
 user-agent, Anime*, Outside
 host-suffix, bahamut.com.tw, Outside
 host-suffix, gamer.com.tw, Outside
@@ -262,7 +256,6 @@ host-suffix, brightline.tv, Outside
 host-suffix, hbo.com, Outside
 host-suffix, hbomax.com, Outside
 host-suffix, warnermediacdn.com, Outside
-user-agent, *Max*, Outside
 host, out053a3bejgh7t0phqa0csou.litix.io, Outside
 user-agent, mytv*, Outside
 host-keyword, nowtv100, Outside
@@ -340,7 +333,6 @@ host-suffix, themoviedb.org, Outside
 host-suffix, tmdb.org, Outside
 host-suffix, opensubtitles.com, Outside
 host-suffix, opensubtitles.org, Outside
-host, amp-api.podcasts.apple.com, Outside
 host-suffix, bugsnag.com, Outside
 host-suffix, app-ads-services.com, Outside
 host-suffix, comcsoft.com, Outside
