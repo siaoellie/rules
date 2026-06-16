@@ -482,3 +482,10 @@ host-suffix, aia.com.cn, Mainland
 host-suffix, mpaascloud.com, Mainland
 host-suffix, dcloud.net.cn, Mainland
 host, client-api.itunes.apple.com, Mainland
+host-suffix, ksosoft.com, Mainland
+host-suffix, wps.cn, Mainland
+host-suffix, wpscdn.cn, Mainland
+host-suffix, ksyuncs.com, Mainland
+host-suffix, kdocs.cn, Mainland
+host, sandbox.itunes.apple.com, Mainland
+host-suffix, ipip.net, Mainland
