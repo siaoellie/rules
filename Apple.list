@@ -102,3 +102,6 @@ host, 48-courier.push.apple.com, Outside
 host, p120-quota.icloud.com, Outside
 host, api-adservices.apple.com, Outside
 host, stats.gc.apple.com, Outside
+host, inappcheck.itunes.apple.com, DIRECT
+host, guzzoni.smoot.apple.com, DIRECT
+host, client-api.itunes.apple.com, DIRECT
