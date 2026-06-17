@@ -95,3 +95,10 @@ host, profile.gc.apple.com, Outside
 host, amp-api.sandbox.apple.com, Outside
 host, mzstorekit.itunes.apple.com, DIRECT
 host, amp-api.apps.apple.com, DIRECT
+host, gspe79-cn-ssl.ls.apple.com, DIRECT
+host, ca.iadsdk.apple.com, DIRECT
+host, 5-courier.push.apple.com, Outside
+host, 48-courier.push.apple.com, Outside
+host, p120-quota.icloud.com, Outside
+host, api-adservices.apple.com, Outside
+host, stats.gc.apple.com, Outside
