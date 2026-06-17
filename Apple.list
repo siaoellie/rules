@@ -93,3 +93,5 @@ host, wps.apple.com, Outside
 host, konut-cdn.apple.com, Outside
 host, profile.gc.apple.com, Outside
 host, amp-api.sandbox.apple.com, Outside
+host, mzstorekit.itunes.apple.com, DIRECT
+host, amp-api.apps.apple.com, DIRECT
