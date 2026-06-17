@@ -60,3 +60,6 @@ host, metrics.icloud.com, Outside
 host, probe.icloud.com, Outside
 host, weather-analytics-events.apple.com, Outside
 host, gdmf-ados.apple.com, Outside
+host, wps.apple.com, Outside
+host, konut-cdn.apple.com, Outside
+host, profile.gc.apple.com, Outside
