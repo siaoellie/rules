@@ -281,7 +281,6 @@ host-suffix, qy.net, Mainland
 host-suffix, gitv.tv, Mainland
 host-suffix, 71.am, Mainland
 host-keyword, qiyi, Mainland
-host, cache.video.iqiyi.com, Mainland
 host-suffix, kugou.com, Mainland
 user-agent, %E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*, Mainland
 host-suffix, kuwo.cn, Mainland
@@ -301,14 +300,8 @@ user-agent, MOO*, Mainland
 user-agent, TencentMidasConnect*, Mainland
 user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90, Mainland
 user-agent, NeteaseMusic*, Mainland
-host, apm.music.163.com, Mainland
-host, apm3.music.163.com, Mainland
-host, interface.music.163.com, Mainland
-host, interface3.music.163.com, Mainland
-host, music.163.com, Mainland
 user-agent, QQ%e9%9f%b3%e4%b9%90*, Mainland
 user-agent, QQMusic*, Mainland
-host, aqqmusic.tc.qq.com, Mainland
 host-suffix, music.qq.com, Mainland
 host-suffix, music.tc.qq.com, Mainland
 host-suffix, qqmusic.qq.com, Mainland
@@ -358,7 +351,6 @@ host-suffix, dongchedi.com, Mainland
 host, shuc-other.ksord.com, Mainland
 host-suffix, askdiandian.com, Mainland
 host-suffix, qrstuvwxyzab.com, Mainland
-host, px-intl.ucweb.com, Mainland
 host-suffix, yunxinfw.com, Mainland
 host-suffix, tliveapp.com, Mainland
 host-suffix, tlivemcdn.com, Mainland
