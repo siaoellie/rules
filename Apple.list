@@ -50,6 +50,7 @@ host, iosapps.itunes.apple.com, DIRECT
 host, downloaddispatch.itunes.apple.com, DIRECT
 host, speedysub.itunes.apple.com, DIRECT
 host, amp-api-edge.apps.apple.com, DIRECT
+host, iphone-ld.apple.com, DIRECT
 host, gateway.icloud.com, Outside
 host, sgsin8.icloud-content.com, Outside
 host, edge-021.sgsin8.icloud-content.com, Outside
