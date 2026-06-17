@@ -48,3 +48,15 @@ host, gdmf.apple.com, Outside
 host, kt-prod.ess.apple.com, Outside
 host, wps.apple.com, Outside
 host, apple-relay.fastly-edge.com, Outside
+host, p11-buy.itunes.apple.com, Outside
+host, p120-fmf.icloud.com, Outside
+host, amp-account.itunes.apple.com, Outside
+host, friend.gc.apple.com, Outside
+host, setup.icloud.com, Outside
+host, gsa.apple.com, Outside
+host, gsas.apple.com, Outside
+host, 10-courier.push.apple.com, Outside
+host, metrics.icloud.com, Outside
+host, probe.icloud.com, Outside
+host, weather-analytics-events.apple.com, Outside
+host, gdmf-ados.apple.com, Outside
