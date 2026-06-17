@@ -105,3 +105,6 @@ host, stats.gc.apple.com, Outside
 host, inappcheck.itunes.apple.com, DIRECT
 host, guzzoni.smoot.apple.com, DIRECT
 host, client-api.itunes.apple.com, DIRECT
+host, cl3.apple.com, DIRECT
+host, weather-map2.apple.com, DIRECT
+host, stocks-data-service.apple.com, DIRECT
