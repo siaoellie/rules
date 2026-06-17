@@ -45,3 +45,8 @@ host, amp-api.media.apple.com, DIRECT
 host, entitlements.itunes.apple.com, DIRECT
 host, gs-loc-cn.apple.com, DIRECT
 host, guzzoni.apple.com, DIRECT
+host, publicassets.cdn-apple.com, DIRECT
+host, iosapps.itunes.apple.com, DIRECT
+host, downloaddispatch.itunes.apple.com, DIRECT
+host, speedysub.itunes.apple.com, DIRECT
+host, amp-api-edge.apps.apple.com, DIRECT
