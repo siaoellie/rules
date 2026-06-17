@@ -89,15 +89,6 @@ host-suffix, telegram.me, Outside
 host-suffix, telegram-cdn.org, Outside
 host-suffix, cdn-telegram.org, Outside
 host-suffix, telesco.pe, Outside
-ip-cidr, 91.105.192.0/23, Outside
-ip-cidr, 91.108.56.0/22, Outside
-ip-cidr, 91.108.4.0/22, Outside
-ip-cidr, 91.108.8.0/22, Outside
-ip-cidr, 91.108.12.0/22, Outside
-ip-cidr, 91.108.16.0/22, Outside
-ip-cidr, 91.108.20.0/22, Outside
-ip-cidr, 149.154.160.0/20, Outside
-ip-cidr, 185.76.151.0/24, Outside
 host-suffix, threads.com, Outside
 host, officeci-mauservice.azurewebsites.net, Outside
 host, mobile.events.data.microsoft.com, Outside
@@ -199,10 +190,6 @@ host, cs428.wpc.edgecastcdn.net, Outside
 host, cws-hulu.conviva.com, Outside
 host, hulu.com.c.footprint.net, Outside
 host, hulu.map.fastly.net, Outside
-ip-cidr, 8.28.124.0/23, Outside
-ip-cidr, 199.60.116.0/24, Outside
-ip-cidr, 199.200.48.0/22, Outside
-ip-cidr, 208.91.156.0/22, Outside
 host-suffix, japonx.com, Outside
 host-suffix, japonx.tv, Outside
 host-suffix, japonx.net, Outside
@@ -330,7 +317,6 @@ host-suffix, mixpanel.com, Outside
 host-suffix, branch.io, Outside
 host-suffix, zendesk.com, Outside
 host-suffix, agora.io, Outside
-ip-cidr, 52.54.85.111/32, Outside
 host-suffix, ns1p.net, Outside
 host-suffix, linkedin.com, Outside
 host-suffix, licdn.com, Outside
