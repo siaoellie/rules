@@ -30,3 +30,10 @@ host, mzstorekit.itunes.apple.com, DIRECT
 host, cl3.apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
 host, stocks-data-service.apple.com, DIRECT
+host, smp-device-content.apple.com, DIRECT
+host, s.mzstatic.com, DIRECT
+host, amp-api.music.apple.com, DIRECT
+host, amp-api-edge.music.apple.com, DIRECT
+host, librarydaap.itunes.apple.com, DIRECT
+host, weather-map2.apple.com, DIRECT
+host, stocks-data-service.apple.com, DIRECT
