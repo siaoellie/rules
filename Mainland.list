@@ -17,7 +17,6 @@ host-suffix, pingan.com.cn, Mainland
 host-suffix, edu.cn, Mainland
 host-suffix, p4pfile.com, Mainland
 host-suffix, zmzfile.com, Mainland
-ip-cidr, 182.254.116.0/24, Mainland
 host-suffix, 10010.com, Mainland
 host-suffix, 10086.cn, Mainland
 host-suffix, 12306.cn, Mainland
@@ -292,7 +291,6 @@ host-suffix, tencentmusic.com, Mainland
 host-suffix, y.qq.com, Mainland
 host-suffix, v.qq.com, Mainland
 host-suffix, video.qq.com, Mainland
-ip-cidr, 106.11.0.0/16, Mainland
 host-suffix, hik-connect.com, Mainland
 host-suffix, hikvision.com, Mainland
 host-suffix, hsbc.com.hk, Mainland
