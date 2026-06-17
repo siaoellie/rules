@@ -27,3 +27,6 @@ host, certs.apple.com, DIRECT
 host, osxapps.itunes.apple.com, DIRECT
 host, guzzoni.smoot.apple.com, DIRECT
 host, mzstorekit.itunes.apple.com, DIRECT
+host, cl3.apple.com, DIRECT
+host, weather-map2.apple.com, DIRECT
+host, stocks-data-service.apple.com, DIRECT
