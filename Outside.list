@@ -130,7 +130,6 @@ host, d22qjgkvxw22r6.cloudfront.net, Outside
 host, d25xi40x97liuc.cloudfront.net, Outside
 host, dmqdd6hw24ucf.cloudfront.net, Outside
 host, d27xxe7juh1us6.cloudfront.net, Outside
-host, dualstack.pefs-alb-266603904.eu-west-1.elb.amazonaws.com, Outside
 host-suffix, bahamut.com.tw, Outside
 host-suffix, gamer.com.tw, Outside
 host, gamer-cds.cdn.hinet.net, Outside
@@ -260,15 +259,11 @@ host-suffix, gvt1.com, Outside
 host-suffix, video.google.com, Outside
 host-suffix, youtu.be, Outside
 host-suffix, youtube.com, Outside
-host-suffix, youtube.googleapis.com, Outside
 host-suffix, youtubeeducation.com, Outside
-host-suffix, youtubeembeddedplayer.googleapis.com, Outside
-host-suffix, youtubei.googleapis.com, Outside
 host-suffix, youtubekids.com, Outside
 host-suffix, youtube-nocookie.com, Outside
 host-suffix, youtube-ui.l.google.com, Outside
 host-suffix, yt.be, Outside
-host-suffix, yt3.ggpht.com, Outside
 host-suffix, ytimg.com, Outside
 host-suffix, ted.com, Outside
 host-suffix, tedcdn.com, Outside
@@ -309,7 +304,6 @@ host-suffix, facebook.net, Outside
 host-suffix, appsflyersdk.com, Outside
 host-suffix, trakt.tv, Outside
 host-suffix, gravatar.com, Outside
-host, infuse-sync.s3-accelerate.amazonaws.com, Outside
 host-suffix, adaptytech.com, Outside
 host-suffix, adapty.io, Outside
 host-suffix, ipify.org, Outside
