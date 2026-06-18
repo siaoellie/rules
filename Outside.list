@@ -333,3 +333,4 @@ host-suffix, datadoghq.com, Outside
 host-suffix, autodesk.com, Outside
 host, ocsp.digicert.com, Outside
 host-suffix, amazonaws.com, Outside
+host-suffix, giphy.com, Outside
