@@ -33,6 +33,7 @@ host, amp-api.podcasts.apple.com, DIRECT
 host, entitlements-edge.itunes.apple.com, DIRECT
 host, pancake.apple.com, DIRECT
 
+host-suffix, icloud.com, Outside
 host-suffix, push.apple.com, Outside
 host-suffix, tv.apple.com, Outside
 host-suffix, icloud-content.com, Outside
