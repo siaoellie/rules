@@ -333,9 +333,9 @@ host-suffix, tiktok.com, Outside
 host-suffix, ocsp.digicert.com, Outside
 host-suffix, 8-lives-cat.io, Outside
 host-suffix, akamaized.net, Outside
+host-suffix, fastly.net, Outside
 host, avodmp4s3ww-a.akamaihd.net, Outside
 host, gamer-cds.cdn.hinet.net, Outside
 host, gamer2-cds.cdn.hinet.net, Outside
 host, cs428.wpc.edgecastcdn.net, Outside
 host, hulu.com.c.footprint.net, Outside
-host, hulu.map.fastly.net, Outside
