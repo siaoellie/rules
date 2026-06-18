@@ -17,6 +17,21 @@ host, gspe21-ssl.ls.apple.com, DIRECT
 host, gs-loc-cn.apple.com, DIRECT
 host, guzzoni.apple.com, DIRECT
 host, gspe19-cn-ssl.ls.apple.com, DIRECT
+host, amp-api.apps.apple.com, DIRECT
+host, amp-api-edge.apps.apple.com, DIRECT
+host, pd.itunes.apple.com, DIRECT
+host, configuration.ls.apple.com, DIRECT
+host, gspe79-cn-ssl.ls.apple.com, DIRECT
+host, init.gc.apple.com, DIRECT
+host, play-edge.itunes.apple.com, DIRECT
+host, bookkeeper.itunes.apple.com, DIRECT
+host, gspe85-cn-ssl.ls.apple.com, DIRECT
+host, xp.apple.com, DIRECT
+host, static.gc.apple.com, DIRECT
+host, amp-api.media.apple.com, DIRECT
+host, amp-api.podcasts.apple.com, DIRECT
+host, entitlements-edge.itunes.apple.com, DIRECT
+host, pancake.apple.com, DIRECT
 
 host-suffix, push.apple.com, Outside
 host-suffix, tv.apple.com, Outside
@@ -33,3 +48,12 @@ host, apple-relay.fastly-edge.com, Outside
 host, gsp64-ssl.ls.apple.com, Outside
 host, weather-analytics-events.apple.com, Outside
 host, gsa.apple.com, Outside
+host, p24-imap.mail.me.com, Outside
+host, p120-mcc.icloud.com, Outside
+host, p120-mccgateway.icloud.com, Outside
+host, profile.gc.apple.com, Outside
+host, daf.xp.apple.com, Outside
+host, amp-account.itunes.apple.com, Outside
+host, p11-buy.itunes.apple.com, Outside
+host, cma2.itunes.apple.com, Outside
+host, uts-api.itunes.apple.com, Outside
