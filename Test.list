@@ -37,3 +37,11 @@ host, amp-api-edge.music.apple.com, DIRECT
 host, librarydaap.itunes.apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
 host, stocks-data-service.apple.com, DIRECT
+host, amp-api.podcasts.apple.com, DIRECT
+host, bookkeeper.itunes.apple.com, DIRECT
+host, entitlements-edge.itunes.apple.com, DIRECT
+host, play-edge.itunes.apple.com, DIRECT
+host, iadsdk.apple.com, DIRECT
+host, bookkeeper.itunes.apple.com, DIRECT
+host, gspe12-cn-ssl.ls.apple.com, DIRECT
+host, wallet.cdn-apple.com, DIRECT
