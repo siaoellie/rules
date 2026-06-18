@@ -36,7 +36,6 @@ host, pancake.apple.com, DIRECT
 host-suffix, push.apple.com, Outside
 host-suffix, tv.apple.com, Outside
 host-suffix, icloud-content.com, Outside
-host-suffix, ess.apple.com, Outside
 host, gateway.icloud.com, Outside
 host, gspe1-ssl.ls.apple.com, Outside
 host, gsp64-ssl.ls.apple.com, Outside
