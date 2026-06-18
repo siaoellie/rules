@@ -339,3 +339,9 @@ host, gamer-cds.cdn.hinet.net, Outside
 host, gamer2-cds.cdn.hinet.net, Outside
 host, cs428.wpc.edgecastcdn.net, Outside
 host, hulu.com.c.footprint.net, Outside
+host-suffix, crisp.chat, Outside
+host-suffix, rudderstack.com, Outside
+host-suffix, begenuin.com, Outside
+host-suffix, emb-api.com, Outside
+host-suffix, carnivalmobile.com, Outside
+host-suffix, clevertap-prod.com, Outside
