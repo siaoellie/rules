@@ -45,3 +45,6 @@ host, iadsdk.apple.com, DIRECT
 host, bookkeeper.itunes.apple.com, DIRECT
 host, gspe12-cn-ssl.ls.apple.com, DIRECT
 host, wallet.cdn-apple.com, DIRECT
+host, gspe85-cn-ssl.ls.apple.com, DIRECT
+host, cdsassets.apple.com, DIRECT
+host, cstat.cdn-apple.com, DIRECT
