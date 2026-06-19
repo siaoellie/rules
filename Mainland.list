@@ -443,3 +443,5 @@ host, firebase-settings.crashlytics.com, Mainland
 host, ocsp.globalsign.com, Mainland
 host, ocsp2.globalsign.com, Mainland
 host, secure.globalsign.com, Mainland
+host-suffix, smtcdns.net, Mainland
+host-suffix, tcdnos.com, Mainland
