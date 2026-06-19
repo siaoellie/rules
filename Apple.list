@@ -1,5 +1,6 @@
 host, gspe1-ssl.ls.apple.com, Outside
 host, gsp64-ssl.ls.apple.com, Outside
+host, weather-analytics-events.apple.com, Outside
 host, gateway.icloud.com, Outside
 host-suffix, push.apple.com, Outside
 host-suffix, mail.me.com, Outside
