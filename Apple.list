@@ -12,8 +12,6 @@ host-suffix, gc.apple.com, Outside
 host-suffix, fastly-edge.com, Outside
 host-suffix, health.apple.com, Outside
 host-suffix, ess.apple.com, Outside
-host-suffix, gsa.apple.com, Outside
-host-suffix, gdmf.apple.com, Outside
 host-suffix, known-issues.apple.com, Outside
 host-suffix, humb.apple.com, Outside
 host-suffix, apple.cn, DIRECT
@@ -31,4 +29,6 @@ host-suffix, aaplimg.com, DIRECT
 host-suffix, ls.apple.com, DIRECT
 host-suffix, gs-loc-cn.apple.com, DIRECT
 host-suffix, wps.apple.com, DIRECT
+host-suffix, gsa.apple.com, DIRECT
+host-suffix, gdmf.apple.com, DIRECT
 host-suffix, apple.com, DIRECT
