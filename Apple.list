@@ -20,6 +20,8 @@ host-suffix, humb.apple.com, Outside
 host-suffix, gsa.apple.com, Outside
 host-suffix, gsas.apple.com, Outside
 host-suffix, gdmf.apple.com, Outside
+host-suffix, tdms.apple.com, Outside
+host-suffix, sports.apple.com, Outside
 host-suffix, apple.cn, DIRECT
 host-suffix, apple.com.cn, DIRECT
 host-suffix, icloud.com, DIRECT
