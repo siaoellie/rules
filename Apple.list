@@ -1,6 +1,8 @@
 host, gspe1-ssl.ls.apple.com, Outside
 host, gsp64-ssl.ls.apple.com, Outside
 host, weather-analytics-events.apple.com, Outside
+host, books-analytics-events.apple.com, Outside
+host, books-personalization-server.apple.com, Outside
 host, gateway.icloud.com, Outside
 host-suffix, push.apple.com, Outside
 host-suffix, mail.me.com, Outside
@@ -22,6 +24,7 @@ host-suffix, gsas.apple.com, Outside
 host-suffix, gdmf.apple.com, Outside
 host-suffix, tdms.apple.com, Outside
 host-suffix, sports.apple.com, Outside
+host-suffix, books.apple.com, Outside
 host-suffix, apple.cn, DIRECT
 host-suffix, apple.com.cn, DIRECT
 host-suffix, icloud.com, DIRECT
