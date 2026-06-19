@@ -1,3 +1,5 @@
+host, gspe1-ssl.ls.apple.com, Outside
+host, gsp64-ssl.ls.apple.com, Outside
 host, gateway.icloud.com, Outside
 host-suffix, push.apple.com, Outside
 host-suffix, mail.me.com, Outside
@@ -14,6 +16,8 @@ host-suffix, health.apple.com, Outside
 host-suffix, ess.apple.com, Outside
 host-suffix, known-issues.apple.com, Outside
 host-suffix, humb.apple.com, Outside
+host-suffix, gsa.apple.com, Outside
+host-suffix, gdmf.apple.com, Outside
 host-suffix, apple.cn, DIRECT
 host-suffix, apple.com.cn, DIRECT
 host-suffix, icloud.com, DIRECT
@@ -29,6 +33,4 @@ host-suffix, aaplimg.com, DIRECT
 host-suffix, ls.apple.com, DIRECT
 host-suffix, gs-loc-cn.apple.com, DIRECT
 host-suffix, wps.apple.com, DIRECT
-host-suffix, gsa.apple.com, DIRECT
-host-suffix, gdmf.apple.com, DIRECT
 host-suffix, apple.com, DIRECT
