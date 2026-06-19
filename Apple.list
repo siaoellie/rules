@@ -1,11 +1,10 @@
 host, gateway.icloud.com, Outside
-host, gspe1-ssl.ls.apple.com, Outside
-host, weather-analytics-events.apple.com, Outside
 host-suffix, push.apple.com, Outside
 host-suffix, mail.me.com, Outside
 host-suffix, tv.apple.com, Outside
 host-suffix, music.apple.com, Outside
 host-suffix, podcasts.apple.com, Outside
+host-suffix, itunes.com, Outside
 host-suffix, itunes.apple.com, Outside
 host-suffix, media.apple.com, Outside
 host-suffix, videos.apple.com, Outside
