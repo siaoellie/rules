@@ -17,6 +17,7 @@ host-suffix, ess.apple.com, Outside
 host-suffix, known-issues.apple.com, Outside
 host-suffix, humb.apple.com, Outside
 host-suffix, gsa.apple.com, Outside
+host-suffix, gsas.apple.com, Outside
 host-suffix, gdmf.apple.com, Outside
 host-suffix, apple.cn, DIRECT
 host-suffix, apple.com.cn, DIRECT
