@@ -458,7 +458,7 @@ host-suffix, microsoft.com, Outside
 host-suffix, shareshortcuts.com, Outside
 host-suffix, tillo.io, Outside
 host-suffix, bootstrapcdn.com, Outside
-host-suffix, omnitatjs.com, Outside
+host-suffix, omnitagjs.com, Outside
 host-suffix, onetag-sys.com, Outside
 host-suffix, buysellads.com, Outside
 host-suffix, buysellads.net, Outside
@@ -488,3 +488,4 @@ host-suffix, moody0100.com, Outside
 host-suffix, yas8p.com, Outside
 host-suffix, ampproject.org, Outside
 host-suffix, crashlytics.com, Outside
+host-suffix, pubnubapi.com, Outside
