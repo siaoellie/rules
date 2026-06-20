@@ -497,3 +497,5 @@ host-suffix, woyoj90.shop, Outside
 host-suffix, comodoca.com, Outside
 host-suffix, psfdpvy.cn, Outside
 host-suffix, joybuy.com, Outside
+host, res.public.onecdn.static.microsoft, Outside
+host, ocsp.comodoca.com, Outside
