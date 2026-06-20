@@ -22,3 +22,5 @@ host-suffix, zte.home, direct
 host-suffix, plex.direct, direct
 host, localhost.ptlogin2.qq.com, direct
 host, localhost.sec.qq.com, direct
+host-suffix, gemalto.com, Outside
+host-suffix, mastercard.com, Outside
