@@ -24,7 +24,7 @@ host-suffix, media.apple.com, Outside
 host-suffix, video.apple.com, Outside
 host-suffix, videos.apple.com, Outside
 host-suffix, gc.apple.com, Outside
-host-suffix, fastly-edge.com, Outside
+host-suffix, apple-relay.fastly-edge.com, Outside
 host-suffix, health.apple.com, Outside
 host-suffix, ess.apple.com, Outside
 host-suffix, commerce.apple.com, Outside
