@@ -53,5 +53,3 @@ host-suffix, aaplimg.com, DIRECT
 host-suffix, ls.apple.com, DIRECT
 host-suffix, gs-loc-cn.apple.com, DIRECT
 host-suffix, wps.apple.com, DIRECT
-host-suffix, apple.com, DIRECT
-host-suffix, apple.cn, DIRECT
