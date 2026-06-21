@@ -267,7 +267,6 @@ host-suffix, hdslb.com, Mainland
 host, upos-hz-mirrorakam.akamaized.net, Mainland
 host-suffix, iqiyi.com, Mainland
 host-suffix, iqiyipic.com, Mainland
-host-suffix, iq.com, Mainland
 host-suffix, qy.net, Mainland
 host-suffix, gitv.tv, Mainland
 host-suffix, 71.am, Mainland
@@ -298,7 +297,6 @@ host-suffix, ezvizlife.com, Mainland
 host-suffix, ezviz.com, Mainland
 host-suffix, huolala.com, Mainland
 host-suffix, huolala.cn, Mainland
-host-suffix, lalamove.com, Mainland
 host-suffix, umetrip.com, Mainland
 host-suffix, travelsky.com, Mainland
 host-suffix, cainiao.com, Mainland
@@ -557,7 +555,6 @@ host-suffix, 95516.net, Mainland
 host-suffix, 21cn.com, Mainland
 host-suffix, mallcoo.net, Mainland
 host-suffix, mallcoo.cn, Mainland
-host-suffix, consumer.shell.com, Mainland
 host-suffix, chinacloudapi.cn, Mainland
 host-suffix, pa18.com, Mainland
 host-suffix, appykt.com, Mainland
@@ -641,8 +638,6 @@ host-suffix, scsonic.cn, Mainland
 host-suffix, etcp.org.cn, Mainland
 host-suffix, etcp.cn, Mainland
 host-suffix, yeehaw.com.cn, Mainland
-host-suffix, vngcloud.vn, Outside
-host-suffix, vng.com.vn, Outside
 host-suffix, qq.com, Mainland
 host-suffix, wechat.com, Mainland
 host-suffix, gtimg.com, Mainland
