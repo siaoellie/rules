@@ -17,11 +17,13 @@ host-suffix, podcasts.apple.com, Outside
 host-suffix, itunes.com, Outside
 host-suffix, itunes.apple.com, Outside
 host-suffix, media.apple.com, Outside
+host-suffix, video.apple.com, Outside
 host-suffix, videos.apple.com, Outside
 host-suffix, gc.apple.com, Outside
 host-suffix, fastly-edge.com, Outside
 host-suffix, health.apple.com, Outside
 host-suffix, ess.apple.com, Outside
+host-suffix, commerce.apple.com, Outside
 host-suffix, known-issues.apple.com, Outside
 host-suffix, humb.apple.com, Outside
 host-suffix, gsa.apple.com, Outside
@@ -35,7 +37,12 @@ host-suffix, icloud.com, Outside
 host-suffix, icloud-content.com, Outside
 host-suffix, apple-cdn.net, Outside
 host-suffix, apple-cloudkit.com, Outside
+host, ocsp2.apple.com, DIRECT
+host, bag.itunes.apple.com, DIRECT
+host, init.itunes.apple.com, DIRECT
+host, gspe19-cn-ssl.ls.apple.com, DIRECT
 host-suffix, apple.com.cn, DIRECT
+host-suffix, xp.apple.com, DIRECT
 host-suffix, icloud-content.com.cn, DIRECT
 host-suffix, icloud.com.cn, DIRECT
 host-suffix, cdn-apple.com, DIRECT
