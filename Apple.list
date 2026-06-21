@@ -2,6 +2,7 @@ host, gspe1-ssl.ls.apple.com, Outside
 host, gspe35-ssl.ls.apple.com, Outside
 host, gsp64-ssl.ls.apple.com, Outside
 host, gdmf-ados.apple.com, Outside
+host, api.smoot.apple.cn, Outside
 host, api-adservices.apple.com, Outside
 host, smp-device-content.apple.com, Outside
 host, weather-analytics-events.apple.com, Outside
@@ -34,7 +35,6 @@ host-suffix, icloud.com, Outside
 host-suffix, icloud-content.com, Outside
 host-suffix, apple-cdn.net, Outside
 host-suffix, apple-cloudkit.com, Outside
-host-suffix, apple.cn, DIRECT
 host-suffix, apple.com.cn, DIRECT
 host-suffix, icloud-content.com.cn, DIRECT
 host-suffix, icloud.com.cn, DIRECT
@@ -47,3 +47,4 @@ host-suffix, ls.apple.com, DIRECT
 host-suffix, gs-loc-cn.apple.com, DIRECT
 host-suffix, wps.apple.com, DIRECT
 host-suffix, apple.com, DIRECT
+host-suffix, apple.cn, DIRECT
