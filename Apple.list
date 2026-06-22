@@ -40,6 +40,7 @@ host-suffix, iwork.apple.com, Outside
 host-suffix, apple-relay.apple.com, Outside
 host-suffix, apple-relay.cloudflare.com, Outside
 host-suffix, apple-relay.fastly-edge.com, Outside
+host, api.smoot.apple.cn, DIRECT
 host, api-adservices.apple.com, DIRECT
 host, smp-device-content.apple.com, DIRECT
 host, ocsp2.apple.com, DIRECT
