@@ -4,10 +4,6 @@ host, metrics.icloud.com, REJECT
 host, metrics.apple.com, REJECT
 host, analytics.icloud.com, REJECT
 host, analytics.apple.com, REJECT
-host, gspe1-ssl.ls.apple.com, Outside
-host, gspe35-ssl.ls.apple.com, Outside
-host, gsp64-ssl.ls.apple.com, Outside
-host, api.smoot.apple.cn, Outside
 host, books-personalization-server.apple.com, Outside
 host, gateway.icloud.com, Outside
 host, amp-api.music.apple.com, Outside
