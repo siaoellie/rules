@@ -25,6 +25,7 @@ host, mask.icloud.com, Outside
 host, mask-h2.icloud.com, Outside
 host, mask-api.icloud.com, Outside
 host, mask-api.fe.apple-dns.net, Outside
+host-suffix, apple.news, Outside
 host-suffix, mail.me.com, Outside
 host-suffix, tv.apple.com, Outside
 host-suffix, music.apple.com, Outside
