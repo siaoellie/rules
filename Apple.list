@@ -2,10 +2,10 @@ host, ocsp2.apple.com, DIRECT
 host, bag.itunes.apple.com, DIRECT
 host, init.itunes.apple.com, DIRECT
 host, gspe19-cn-ssl.ls.apple.com, DIRECT
+host, gdmf-ados.apple.com, DIRECT
 host, gspe1-ssl.ls.apple.com, Outside
 host, gspe35-ssl.ls.apple.com, Outside
 host, gsp64-ssl.ls.apple.com, Outside
-host, gdmf-ados.apple.com, Outside
 host, api.smoot.apple.cn, Outside
 host, api-adservices.apple.com, Outside
 host, smp-device-content.apple.com, Outside
@@ -30,9 +30,6 @@ host-suffix, ess.apple.com, Outside
 host-suffix, commerce.apple.com, Outside
 host-suffix, known-issues.apple.com, Outside
 host-suffix, humb.apple.com, Outside
-host-suffix, gsa.apple.com, Outside
-host-suffix, gsas.apple.com, Outside
-host-suffix, gdmf.apple.com, Outside
 host-suffix, tdms.apple.com, Outside
 host-suffix, sports.apple.com, Outside
 host-suffix, books.apple.com, Outside
@@ -43,6 +40,9 @@ host-suffix, apple-cdn.net, Outside
 host-suffix, apple-cloudkit.com, Outside
 host-suffix, apple.com.cn, DIRECT
 host-suffix, xp.apple.com, DIRECT
+host-suffix, gdmf.apple.com, DIRECT
+host-suffix, gsa.apple.com, DIRECT
+host-suffix, gsas.apple.com, DIRECT
 host-suffix, icloud-content.com.cn, DIRECT
 host-suffix, icloud.com.cn, DIRECT
 host-suffix, cdn-apple.com, DIRECT
