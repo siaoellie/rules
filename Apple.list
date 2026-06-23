@@ -57,7 +57,6 @@ host-suffix, tdms.apple.com, DIRECT
 host-suffix, xp.apple.com, DIRECT
 host-suffix, icloud-content.com.cn, DIRECT
 host-suffix, icloud.com.cn, DIRECT
-host-suffix, cdn-apple.com, DIRECT
 host-suffix, mzstatic.com, DIRECT
 host-suffix, mesu.apple.com, DIRECT
 host-suffix, apple-mapkit.com, DIRECT
@@ -65,6 +64,7 @@ host-suffix, aaplimg.com, DIRECT
 host-suffix, ls.apple.com, DIRECT
 host-suffix, gs-loc-cn.apple.com, DIRECT
 host-suffix, wps.apple.com, DIRECT
+host-suffix, cdn-apple.com, DIRECT
 host-suffix, apple-cdn.net, DIRECT
 host-suffix, itunes.com, DIRECT
 host-suffix, itunes.apple.com, DIRECT
