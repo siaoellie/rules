@@ -47,7 +47,7 @@ host-suffix, iwork.apple.com, Outside
 host-suffix, apple-relay.apple.com, Outside
 host-suffix, apple-relay.cloudflare.com, Outside
 host-suffix, apple-relay.fastly-edge.com, Outside
-host-suffix, apple-dns.net, DIRECT
+host-suffix, apple-dns.net, Outside
 host-suffix, push.apple.com, DIRECT
 host-suffix, health.apple.com, DIRECT
 host-suffix, commerce.apple.com, DIRECT
