@@ -16,16 +16,6 @@ host, amp-api.videos.apple.com, Outside
 host, amp-api.podcasts.apple.com, Outside
 host, amp-api.books.apple.com, Outside
 host, amp-api.apps.apple.com, Outside
-host, uts-api.itunes.apple.com, Outside
-host, play-edge.itunes.apple.com, Outside
-host, np-edge.itunes.apple.com, Outside
-host, sf-api-token-service.itunes.apple.com, Outside
-host, entitlements.itunes.apple.com, Outside
-host, entitlements-edge.itunes.apple.com, Outside
-host, mask.icloud.com, Outside
-host, mask-h2.icloud.com, Outside
-host, mask-api.icloud.com, Outside
-host, mask-api.fe.apple-dns.net, Outside
 host, gdmf-ados.apple.com, Outside
 host, init.push.apple.com, Outside
 host, init.ess.apple.com, DIRECT
@@ -57,6 +47,7 @@ host-suffix, iwork.apple.com, Outside
 host-suffix, apple-relay.apple.com, Outside
 host-suffix, apple-relay.cloudflare.com, Outside
 host-suffix, apple-relay.fastly-edge.com, Outside
+host-suffix, apple-dns.net, DIRECT
 host-suffix, push.apple.com, DIRECT
 host-suffix, health.apple.com, DIRECT
 host-suffix, commerce.apple.com, DIRECT
