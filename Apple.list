@@ -14,10 +14,11 @@ host, books-personalization-server.apple.com, Outside
 host, gateway.icloud.com, Outside
 host, gdmf-ados.apple.com, Outside
 host, init.push.apple.com, Outside
-host, init.ess.apple.com, DIRECT
 host, api-adservices.apple.com, DIRECT
 host, smp-device-content.apple.com, DIRECT
 host, ocsp2.apple.com, DIRECT
+host-suffix, push.apple.com, Outside
+host-suffix, humb.apple.com, Outside
 host-suffix, gdmf.apple.com, Outside
 host-suffix, gsa.apple.com, Outside
 host-suffix, gsas.apple.com, Outside
@@ -42,11 +43,8 @@ host-suffix, iwork.apple.com, Outside
 host-suffix, apple-relay.apple.com, Outside
 host-suffix, apple-relay.cloudflare.com, Outside
 host-suffix, apple-relay.fastly-edge.com, Outside
-host-suffix, push.apple.com, DIRECT
 host-suffix, health.apple.com, DIRECT
-host-suffix, commerce.apple.com, DIRECT
 host-suffix, known-issues.apple.com, DIRECT
-host-suffix, humb.apple.com, DIRECT
 host-suffix, tdms.apple.com, DIRECT
 host-suffix, xp.apple.com, DIRECT
 host-suffix, apps.apple.com, DIRECT
