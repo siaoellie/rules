@@ -4,6 +4,11 @@ host, metrics.icloud.com, REJECT
 host, metrics.apple.com, REJECT
 host, analytics.icloud.com, REJECT
 host, analytics.apple.com, REJECT
+host, gspe1-ssl.ls.apple.com, Outside
+host, bpapi.apple.com, Outside
+host, api.smoot.apple.cn, Outside
+host, amp-account.itunes.apple.com, Outside
+host, amp-api.fitness.apple.com, Outside
 host, books-personalization-server.apple.com, Outside
 host, gateway.icloud.com, Outside
 host, amp-api.music.apple.com, Outside
@@ -21,6 +26,10 @@ host, mask.icloud.com, Outside
 host, mask-h2.icloud.com, Outside
 host, mask-api.icloud.com, Outside
 host, mask-api.fe.apple-dns.net, Outside
+host, gdmf-ados.apple.com, Outside
+host-suffix, gdmf.apple.com, Outside
+host-suffix, gsa.apple.com, Outside
+host-suffix, gsas.apple.com, Outside
 host-suffix, apple.news, Outside
 host-suffix, mail.me.com, Outside
 host-suffix, tv.apple.com, Outside
@@ -40,14 +49,12 @@ host-suffix, iwork.apple.com, Outside
 host-suffix, apple-relay.apple.com, Outside
 host-suffix, apple-relay.cloudflare.com, Outside
 host-suffix, apple-relay.fastly-edge.com, Outside
-host, api.smoot.apple.cn, DIRECT
 host, api-adservices.apple.com, DIRECT
 host, smp-device-content.apple.com, DIRECT
 host, ocsp2.apple.com, DIRECT
 host, bag.itunes.apple.com, DIRECT
 host, init.itunes.apple.com, DIRECT
 host, gspe19-cn-ssl.ls.apple.com, DIRECT
-host, gdmf-ados.apple.com, DIRECT
 host-suffix, push.apple.com, DIRECT
 host-suffix, health.apple.com, DIRECT
 host-suffix, ess.apple.com, DIRECT
@@ -56,9 +63,6 @@ host-suffix, known-issues.apple.com, DIRECT
 host-suffix, humb.apple.com, DIRECT
 host-suffix, tdms.apple.com, DIRECT
 host-suffix, xp.apple.com, DIRECT
-host-suffix, gdmf.apple.com, DIRECT
-host-suffix, gsa.apple.com, DIRECT
-host-suffix, gsas.apple.com, DIRECT
 host-suffix, icloud-content.com.cn, DIRECT
 host-suffix, icloud.com.cn, DIRECT
 host-suffix, cdn-apple.com, DIRECT
