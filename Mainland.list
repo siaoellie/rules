@@ -655,3 +655,8 @@ host-suffix, qqmail.com, DIRECT
 host-suffix, hzchengdun.com, DIRECT
 host-suffix, mcc460.pub.3gppnetwork.org, DIRECT
 host-suffix, wwads.cn, DIRECT
+host-suffix, didi-trip.com, DIRECT
+host-suffix, kuaidadi.com, DIRECT
+host-suffix, kuiniuca.com, DIRECT
+host-suffix, pool.ntp.org, DIRECT
+host-suffix, ntp.org, DIRECT
