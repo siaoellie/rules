@@ -40,3 +40,6 @@ host-suffix, mastercard.com, Outside
 host-suffix, globalsign.com, Outside
 host, mtrace.qq.com, REJECT
 host, btrace.qq.com, REJECT
+host, sdkgen.data.tianwenca.com, REJECT
+host, cf-gl.qiezibenpao.com, REJECT
+host, sd-gl.xinqiucc.com, REJECT
