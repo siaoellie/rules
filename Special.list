@@ -1,3 +1,4 @@
+host, dns.alidns.com, DIRECT
 host-suffix, alidns.com, direct
 host-suffix, doh.pub, direct
 host-suffix, wgetcloud.online, Outside
