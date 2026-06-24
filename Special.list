@@ -43,4 +43,4 @@ host, btrace.qq.com, REJECT
 host, sdkgen.data.tianwenca.com, REJECT
 host, cf-gl.qiezibenpao.com, REJECT
 host, sd-gl.xinqiucc.com, REJECT
-host, ipip-g11.qiezibenpao.com, REJECT
+host, ipip-gl1.qiezibenpao.com, REJECT
