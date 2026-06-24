@@ -9,6 +9,8 @@ host, books-personalization-server.apple.com, Outside
 host, gateway.icloud.com, Outside
 host, gdmf-ados.apple.com, Outside
 host, init.push.apple.com, Outside
+host, valid.apple.com, Outside
+host, swallow.apple.com, Outside
 host, api-adservices.apple.com, DIRECT
 host, smp-device-content.apple.com, DIRECT
 host, ocsp2.apple.com, DIRECT
