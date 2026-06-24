@@ -1,4 +1,4 @@
-host, weather-analytics-events.apple.com, Reject
+host, weather-analytics-events.apple.com, REJECT
 host, gspe1-ssl.ls.apple.com, Outside
 host, gsp64-ssl.ls.apple.com, Outside
 host, bpapi.apple.com, Outside
