@@ -7,10 +7,10 @@ host, kt-prod.ess.apple.com, Outside
 host, query.ess.apple.com, Outside
 host, time.asia.apple.com, Outside
 host, apple-relay.fastly-edge.com, Outside
-host, konut-cdn.apple.com Outside
-host, partiality.itunes.apple.com Outside
-host, wps.apple.com Outside
-host, help.apple.com Outside
+host, konut-cdn.apple.com, Outside
+host, partiality.itunes.apple.com, Outside
+host, wps.apple.com, Outside
+host, help.apple.com, Outside
 host-suffix, push.apple.com, Outside
 host-suffix, icloud.com, Outside
 host-suffix, apple-cloudkit, Outside
