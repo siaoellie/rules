@@ -46,4 +46,4 @@ host-suffix, apple-cloudkit.com, Outside
 host-suffix, apple-relay.apple.com, Outside
 host-suffix, apple-relay.cloudflare.com, Outside
 host-suffix, apple-relay.fastly-edge.com, Outside
-host-suffix, apple.com, Outside
+host-suffix, apple.com, DIRECT
