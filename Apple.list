@@ -1,6 +1,4 @@
 host, weather-analytics-events.apple.com, REJECT
-host, gspe1-ssl.ls.apple.com, Outside
-host, gsp64-ssl.ls.apple.com, Outside
 host, gateway.icloud.com, Outside
 host, ocsp2.apple.com, DIRECT
 host-suffix, apple.news, Outside
