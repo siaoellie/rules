@@ -17,8 +17,8 @@ host-suffix, apple-cloudkit, Outside
 host-suffix, mail.me.com, Outside
 
 host, ocsp2.apple.com, DIRECT
-host, swallow, DIRECT
-host, valid, DIRECT
+host, swallow.apple.com, DIRECT
+host, valid.apple.com, DIRECT
 host, weatherkit.apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
 host, configuration.apple.com, DIRECT
