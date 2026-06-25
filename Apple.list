@@ -5,6 +5,7 @@ host-suffix, mzstatic.com, DIRECT
 host-suffix, ls.apple.com, DIRECT
 host-suffix, gs-loc-cn.apple.com, DIRECT
 host-suffix, apple-mapkit.com, DIRECT
+host-suffix, aaplimg.com, DIRECT
 host-suffix, apps.apple.com, DIRECT
 host-suffix, icloud-content.com.cn, DIRECT
 host-suffix, icloud.com.cn, DIRECT
