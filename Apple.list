@@ -16,10 +16,8 @@ host, valid.apple.com, Outside
 host, swallow.apple.com, Outside
 host, smp-device-content.apple.com, DIRECT
 host, ocsp2.apple.com, DIRECT
-host, init.ess.apple.com, DIRECT
 host, weatherkit.apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
-host, configuration.apple.com, DIRECT
 host, pancake.apple.com, DIRECT
 host, xp.apple.com, DIRECT
 host-suffix, push.apple.com, Outside
