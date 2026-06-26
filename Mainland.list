@@ -669,3 +669,7 @@ host-suffix, jpush.io, DIRECT
 host-suffix, apifox.com, DIRECT
 host-suffix, apifox.cn, DIRECT
 host-suffix, amapauto.com, DIRECT
+host-suffix, qchannel01.cn, DIRECT
+host-suffix, qchannel03.cn, DIRECT
+host-suffix, aliyun-inc.com, DIRECT
+host-suffix, unionpay.com, DIRECT
