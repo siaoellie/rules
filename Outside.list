@@ -1,3 +1,6 @@
+ip-cidr, 8.8.8.0/24, Outside
+ip-cidr, 17.188.169.0/24, Outside
+ip-cidr, 17.253.84.0/24, Outside
 host-suffix, sentry.io, Outside
 host-suffix, segment.io, Outside
 host-suffix, revenuecat.com, Outside
