@@ -26,6 +26,13 @@ ip-cidr, 183.60.8.69/32, DIRECT
 ip-cidr, 183.60.8.74/32, DIRECT
 ip-cidr, 183.61.247.229/32, DIRECT
 ip-cidr, 183.61.254.79/32, DIRECT
+ip-cidr, 120.46.50.223/32, DIRECT
+ip-cidr, 120.46.178.242/32, DIRECT
+ip-cidr, 121.36.73.60/32, DIRECT
+ip-cidr, 125.88.145.17/32, DIRECT
+ip-cidr, 125.88.186.144/32, DIRECT
+host-suffix, fliggy.com, DIRECT
+host-suffix, mediav.com, DIRECT
 host-suffix, abchina.com, DIRECT
 host-suffix, abchina.com.cn, DIRECT
 host-suffix, boc.cn, DIRECT
