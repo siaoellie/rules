@@ -20,6 +20,8 @@ host, weatherkit.apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
 host, pancake.apple.com, DIRECT
 host, xp.apple.com, DIRECT
+host-suffix, sse-ws.apple.com, Outside
+host-suffix, wps.apple.com, Outside
 host-suffix, push.apple.com, Outside
 host-suffix, humb.apple.com, Outside
 host-suffix, gdmf.apple.com, Outside
@@ -48,8 +50,6 @@ host-suffix, iwork.apple.com, Outside
 host-suffix, apple-relay.apple.com, Outside
 host-suffix, apple-relay.cloudflare.com, Outside
 host-suffix, apple-relay.fastly-edge.com, Outside
-host-suffix, sse-ws.apple.com, DIRECT
-host-suffix, wps.apple.com, DIRECT
 host-suffix, apps.apple.com, DIRECT
 host-suffix, icloud-content.com.cn, DIRECT
 host-suffix, icloud.com.cn, DIRECT
