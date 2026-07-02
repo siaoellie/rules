@@ -1,6 +1,8 @@
 host, dns.alidns.com, DIRECT
+host, doh.pub, DIRECT
+host, dns.pub, DIRECT
+host, dot.pub, DIRECT
 host-suffix, alidns.com, DIRECT
-host-suffix, doh.pub, DIRECT
 host-suffix, wgetcloud.online, Outside
 host-suffix, quantumult.app, Outside
 host-suffix, wgetcloud.org, Outside
