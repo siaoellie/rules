@@ -28,6 +28,7 @@ host-suffix, gsa.apple.com, Outside
 host-suffix, gsas.apple.com, Outside
 host-suffix, tdms.apple.com, Outside
 host-suffix, ess.apple.com, Outside
+host-suffix, push.apple.com, Outside
 host-suffix, apple.news, Outside
 host-suffix, mail.me.com, Outside
 host-suffix, tv.apple.com, Outside
@@ -49,7 +50,6 @@ host-suffix, iwork.apple.com, Outside
 host-suffix, apple-relay.apple.com, Outside
 host-suffix, apple-relay.cloudflare.com, Outside
 host-suffix, apple-relay.fastly-edge.com, Outside
-host-suffix, push.apple.com, DIRECT
 host-suffix, apps.apple.com, DIRECT
 host-suffix, icloud-content.com.cn, DIRECT
 host-suffix, icloud.com.cn, DIRECT
