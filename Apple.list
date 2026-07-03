@@ -62,4 +62,4 @@ host-suffix, gs-loc-cn.apple.com, DIRECT
 host-suffix, cdn-apple.com, DIRECT
 host-suffix, apple-cdn.net, DIRECT
 host-suffix, apple.com.cn, DIRECT
-host-suffix, apple.com, DIRECT
+host-suffix, apple.com, Outside
