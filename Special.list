@@ -46,3 +46,4 @@ host, sdkgen.data.tianwenca.com, REJECT
 host, cf-gl.qiezibenpao.com, REJECT
 host, sd-gl.xinqiucc.com, REJECT
 host, ipip-gl1.qiezibenpao.com, REJECT
+host, msmp.abchina.com.cn, REJECT
