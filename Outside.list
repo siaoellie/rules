@@ -1,3 +1,5 @@
+host-suffix, datadoghq.com, Outside
+host-suffix, ocsp-certum.com, Outside
 host-suffix, taobao.com.hk, Outside
 host-suffix, tmall.com.hk, Outside
 host-suffix, tmall.hk, Outside
