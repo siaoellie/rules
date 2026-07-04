@@ -1,3 +1,11 @@
+host-suffix, taobao.com.hk, Outside
+host-suffix, tmall.com.hk, Outside
+host-suffix, tmall.hk, Outside
+host-suffix, alibaba.com.hk, Outside
+host-suffix, jd.com.hk, Outside
+host-suffix, jd.hk, Outside
+host-suffix, jingdong.com.hk, Outside
+host-suffix, alipay.com.hk, Outside
 host-suffix, digicert.com, Outside
 host-suffix, entrust.net, Outside
 host-suffix, datadoghq.com, Outside
