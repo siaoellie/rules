@@ -69,10 +69,7 @@ host-suffix, jingdong.com.hk, Outside
 host-suffix, alipay.com.hk, Outside
 host-suffix, digicert.com, Outside
 host-suffix, entrust.net, Outside
-host-suffix, datadoghq.com, Outside
 host-suffix, google.com.sg, Outside
-host-suffix, google.com.hk, Outside
-host-suffix, google.com.my, Outside
 host-suffix, 555k9.com, Outside
 host-suffix, itxt001.xyz, Outside
 host-suffix, onetrust.com, Outside
@@ -391,7 +388,6 @@ host-suffix, tiqcdn.com, Outside
 host-suffix, sprig.com, Outside
 host-suffix, adjust.com, Outside
 host-suffix, dyneti.com, Outside
-host-suffix, datadoghq.com, Outside
 host-suffix, autodesk.com, Outside
 host-suffix, amazonaws.com, Outside
 host-suffix, giphy.com, Outside
