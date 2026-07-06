@@ -1,3 +1,5 @@
+host-suffix, myapp.com, DIRECT
+host-suffix, alipaycloudrun.com.cn, DIRECT
 host-suffix, brother.cn, DIRECT
 host-suffix, brother.com.cn, DIRECT
 host-suffix, canon.com.cn, DIRECT
