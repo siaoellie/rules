@@ -1,3 +1,12 @@
+host-suffix, appdome.com, Outside
+host-suffix, adobedc.net, Outside
+host-suffix, omtrdc.net, Outside
+host-suffix, adobe.com, Outside
+host-suffix, bazaarvoice.com, Outside
+host-suffix, apptentive.com, Outside
+host-suffix, salesforce.com, Outside
+host-suffix, inauth.com, Outside
+host-suffix, scene7.com, Outside
 host-suffix, jddebug.com, Outside
 host-suffix, snapvn.com, Outside
 host-suffix, emxdgt.com, Outside
