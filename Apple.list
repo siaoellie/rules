@@ -12,14 +12,15 @@ host, kt-prod.ess.apple.com, Outside
 host, time.asia.apple.com, Outside
 host, partiality.itunes.apple.com, Outside
 host, help.apple.com, Outside
-host, valid.apple.com, Outside
-host, swallow.apple.com, Outside
+host, valid.apple.com, DIRECT
+host, swallow.apple.com, DIRECT
 host, smp-device-content.apple.com, DIRECT
 host, ocsp2.apple.com, DIRECT
 host, weatherkit.apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
 host, pancake.apple.com, DIRECT
 host, xp.apple.com, DIRECT
+host-suffix, push.apple.com, DIRECT
 host-suffix, sse-ws.apple.com, Outside
 host-suffix, wps.apple.com, Outside
 host-suffix, humb.apple.com, Outside
@@ -28,7 +29,6 @@ host-suffix, gsa.apple.com, Outside
 host-suffix, gsas.apple.com, Outside
 host-suffix, tdms.apple.com, Outside
 host-suffix, ess.apple.com, Outside
-host-suffix, push.apple.com, Outside
 host-suffix, apple.news, Outside
 host-suffix, mail.me.com, Outside
 host-suffix, tv.apple.com, Outside
@@ -62,4 +62,4 @@ host-suffix, gs-loc-cn.apple.com, DIRECT
 host-suffix, cdn-apple.com, DIRECT
 host-suffix, apple-cdn.net, DIRECT
 host-suffix, apple.com.cn, DIRECT
-host-suffix, apple.com, Outside
+host-suffix, apple.com, DIRECT
