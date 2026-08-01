@@ -10,6 +10,7 @@ host, gdmf-ados.apple.com, Outside
 host, api-adservices.apple.com, Outside
 host, kt-prod.ess.apple.com, Outside
 host, time.asia.apple.com, Outside
+host, time.apple.com, Outside
 host, partiality.itunes.apple.com, Outside
 host, help.apple.com, Outside
 host, valid.apple.com, DIRECT
