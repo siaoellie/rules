@@ -1,4 +1,3 @@
-host-suffix, rednote.com, DIRECT
 host-suffix, saofree.top, DIRECT
 host-suffix, quickapp.cn, DIRECT
 host-suffix, yupaopao.cn, DIRECT
@@ -61,7 +60,6 @@ host-suffix, bvmlt.top, DIRECT
 host-suffix, maimemo.com, DIRECT
 host-suffix, maimemostatus.com, DIRECT
 host-suffix, vanemu.com, DIRECT
-host-suffix, recaptcha.net, DIRECT
 host-suffix, myapp.com, DIRECT
 host-suffix, alipaycloudrun.com.cn, DIRECT
 host-suffix, brother.cn, DIRECT
@@ -286,7 +284,6 @@ host-suffix, lecloud.com, DIRECT
 host-suffix, lemicp.com, DIRECT
 host-suffix, letvcloud.com, DIRECT
 host-suffix, lizhi.io, DIRECT
-host-suffix, localizecdn.com, DIRECT
 host-suffix, lxdns.com, DIRECT
 host-suffix, meituan.com, DIRECT
 host-suffix, meizu.com, DIRECT
@@ -431,7 +428,6 @@ host-suffix, acg.tv, DIRECT
 host-suffix, acgvideo.com, DIRECT
 host-suffix, b23.tv, DIRECT
 host-suffix, bilibili.com, DIRECT
-host-suffix, bilibili.tv, DIRECT
 host-suffix, biliapi.net, DIRECT
 host-suffix, biliapi.com, DIRECT
 host-suffix, bilivideo.com, DIRECT
@@ -528,7 +524,6 @@ host-suffix, c-ctrip.com, DIRECT
 host-suffix, ctripins.com, DIRECT
 host-suffix, mcdchina.net, DIRECT
 host-suffix, psmartcloud.com, DIRECT
-host-suffix, app-analytics-services.com, DIRECT
 host-suffix, noncurious.com, DIRECT
 host-suffix, 300hu.com, DIRECT
 host-suffix, tencentcs.com, DIRECT
