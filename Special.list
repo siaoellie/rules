@@ -5,11 +5,11 @@ host, dns.alidns.com, DIRECT
 host, doh.pub, DIRECT
 host, dns.pub, DIRECT
 host, dot.pub, DIRECT
+host, connect.rom.miui.com, DIRECT
 host-suffix, alidns.com, DIRECT
 host-suffix, wgetcloud.online, Outside
 host-suffix, quantumult.app, Outside
 host-suffix, wgetcloud.org, Outside
-host, connect.rom.miui.com, DIRECT
 host-suffix, cmpassport.com, DIRECT
 host-suffix, jegotrip.com.cn, DIRECT
 host-suffix, icitymobile.mobi, DIRECT
