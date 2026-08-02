@@ -491,7 +491,6 @@ host-suffix, xhscdn.net, DIRECT
 host-suffix, xiaohongshu.net, DIRECT
 host-suffix, autohome.com, DIRECT
 host-suffix, dongchedi.com, DIRECT
-host, shuc-other.ksord.com, DIRECT
 host-suffix, askdiandian.com, DIRECT
 host-suffix, qrstuvwxyzab.com, DIRECT
 host-suffix, yunxinfw.com, DIRECT
@@ -835,7 +834,6 @@ host-suffix, didi-trip.com, DIRECT
 host-suffix, kuaidadi.com, DIRECT
 host-suffix, kuiniuca.com, DIRECT
 host-suffix, pool.ntp.org, DIRECT
-host-suffix, ntp.org, DIRECT
 host-suffix, acewill.net, DIRECT
 host-suffix, welcrm.com, DIRECT
 host-suffix, bjchaoke.com, DIRECT
