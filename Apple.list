@@ -1,3 +1,4 @@
 host, gateway.icloud.com, Outside
 host-suffix, push.apple.com, Outside
 host-suffix, tv.apple.com, Outside
+host-suffix, icloud.com, Outside
