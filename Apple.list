@@ -1,4 +1,12 @@
 host, gateway.icloud.com, Outside
+host, iosapps.itunes.apple.com, DIRECT
+host, downloaddispatch.itunes.apple.com, DIRECT
+host, sandbox.itunes.apple.com, DIRECT
+host, ca.iadsdk.apple.com, DIRECT
+host, iadsdk.apple.com, DIRECT
+host, device-config.pcms.apple.com, DIRECT
+host, amd-infra.itunes.apple.com, DIRECT
+host, valid.apple.com, DIRECT
 host, app-site-association.cdn-apple.com, DIRECT
 host, static.gc.apple.com, DIRECT
 host, init.gc.apple.com, DIRECT
