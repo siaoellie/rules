@@ -61,5 +61,4 @@ host, wallet.cdn-apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
 host, weatherkit.apple.com, DIRECT
 host, xp.apple.com, DIRECT
-host-suffix, push.apple.com, Outside
 host-suffix, icloud.com, Outside
