@@ -1,3 +1,4 @@
+host, my.ip.cn, DIRECT
 host-suffix, 127.net, DIRECT
 host-suffix, marmot-cloud.com, DIRECT
 host-suffix, jiediankeji.com, DIRECT
