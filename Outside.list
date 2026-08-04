@@ -1,3 +1,17 @@
+host, us2.stun.twilio.com, Outside
+host, us1.stun.twilio.com, Outside
+host, sg1.stun.twilio.com, Outside
+host, jp1.stun.twilio.com, Outside
+host, global.stun.twilio.com, Outside
+host, stun.nextcloud.com, Outside
+host, ipv6.am.i.mullvad.net, Outside
+host, ipv4.am.i.mullvad.net, Outside
+host, api.ip.sb, Outside
+host, circle-flags.cdn.skk.moe, Outside
+host, ip.skk.moe, Outside
+host, ip.api.skk.moe, Outside
+host, ipv4-ip.api.skk.moe, Outside
+host, cdn.skk.moe, Outside
 host-suffix, stripecdn.com, Outside
 host, checkout-cookies.link.com, Outside
 host-suffix, auth0.com, Outside
