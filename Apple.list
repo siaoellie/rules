@@ -1,5 +1,8 @@
 host, time.apple.com, DIRECT
 host, time.asia.apple.com, DIRECT
+host, gspe85-cn-ssl.ls.apple.com, DIRECT
+host, radio.itunes.apple.com, DIRECT
+host, cdsassets.apple.com, DIRECT
 host, cstat.cdn-apple.com, DIRECT
 host, cl4-cn.apple.com, DIRECT
 host, cl3.apple.com, DIRECT
@@ -74,6 +77,16 @@ host, wallet.cdn-apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
 host, weatherkit.apple.com, DIRECT
 host, xp.apple.com, DIRECT
+host, cma2.itunes.apple.com, Outside
+host, amp-api.videos.apple.com, Outside
+host, uts-api.itunes.apple.com, Outside
+host, known-issues.apple.com, Outside
+host, query.ess.apple.com, Outside
+host, api.sports.apple.com, Outside
+host, silverbullet-external.itunes.apple.com, Outside
+host, sse-ws-p189.apple.com, Outside
+host, daf.xp.apple.com, Outside
+host, weather-edge.apple.com, Outside
 host, konut-cdn.apple.com, Outside
 host, api.smoot.apple.cn, Outside
 host, p19-buy.itunes.apple.com, Outside
@@ -101,4 +114,7 @@ host, init.push.apple.com, Outside
 host, api-adservices.apple.com, Outside
 host, profile.gc.apple.com, Outside
 host, stats.gc.apple.com, Outside
+host-suffix, push.apple.com, Outside
 host-suffix, icloud.com, Outside
+host-suffix, icloud-content.com, Outside
+host-suffix, tv.apple.com, Outside
