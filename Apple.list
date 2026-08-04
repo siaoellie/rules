@@ -1,5 +1,3 @@
-host, time.apple.com, DIRECT
-host, time.asia.apple.com, DIRECT
 host, gspe85-cn-ssl.ls.apple.com, DIRECT
 host, radio.itunes.apple.com, DIRECT
 host, cdsassets.apple.com, DIRECT
@@ -114,6 +112,8 @@ host, init.push.apple.com, Outside
 host, api-adservices.apple.com, Outside
 host, profile.gc.apple.com, Outside
 host, stats.gc.apple.com, Outside
+host, time.apple.com, Outside
+host, time.asia.apple.com, Outside
 host-suffix, push.apple.com, Outside
 host-suffix, icloud.com, Outside
 host-suffix, icloud-content.com, Outside
