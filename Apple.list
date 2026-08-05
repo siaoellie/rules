@@ -112,6 +112,13 @@ host, init.push.apple.com, Outside
 host, api-adservices.apple.com, Outside
 host, profile.gc.apple.com, Outside
 host, stats.gc.apple.com, Outside
+host, news-edge.apple.com, Outside
+host, tdms.apple.com, Outside
+host, pds.ess.apple.com, Outside
+host, pds-init.ess.apple.com, Outside
+host, ontology.health.apple.com, Outside
+host, ph2.itunes.apple.com, Outside
+host, csig.apple.com, Outside
 host, time.apple.com, Outside
 host, time.asia.apple.com, Outside
 host-suffix, push.apple.com, Outside
