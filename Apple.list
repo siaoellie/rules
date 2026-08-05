@@ -1,3 +1,10 @@
+host, www.apple.com, DIRECT
+host, support.apple.com, DIRECT
+host, cl2.apple.com, DIRECT
+host, experiments.apple.com, DIRECT
+host, sylvan.apple.com, DIRECT
+host, cf.iadsdk.apple.com, DIRECT
+host, assets-mercury.mzstatic.com, DIRECT
 host, gspe85-cn-ssl.ls.apple.com, DIRECT
 host, radio.itunes.apple.com, DIRECT
 host, cdsassets.apple.com, DIRECT
@@ -119,6 +126,12 @@ host, pds-init.ess.apple.com, Outside
 host, ontology.health.apple.com, Outside
 host, ph2.itunes.apple.com, Outside
 host, csig.apple.com, Outside
+host, lcdn-locator.apple.com, Outside
+host, partiality.itunes.apple.com, Outside
+host, api.apple-cloudkit.com, Outside
+host, radarsubmissions.apple.com, Outside
+host, profile.ess.apple.com, Outside
+host, sas.pcms.apple.com, Outside
 host, time.apple.com, Outside
 host, time.asia.apple.com, Outside
 host-suffix, push.apple.com, Outside
