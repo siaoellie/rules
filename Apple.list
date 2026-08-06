@@ -1,3 +1,7 @@
+host, is5-ssl.mzstatic.com, DIRECT
+host, updates.cdn-apple.com, DIRECT
+host, swdist.apple.com, DIRECT
+host, swscan.apple.com, DIRECT
 host, www.apple.com, DIRECT
 host, support.apple.com, DIRECT
 host, cl2.apple.com, DIRECT
@@ -133,6 +137,7 @@ host, radarsubmissions.apple.com, Outside
 host, profile.ess.apple.com, Outside
 host, sas.pcms.apple.com, Outside
 host, gdmf-ados.apple.com, Outside
+host, help.apple.com, Outside
 host, time.apple.com, Outside
 host, time.asia.apple.com, Outside
 host-suffix, push.apple.com, Outside
