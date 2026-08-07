@@ -137,6 +137,7 @@ host, radarsubmissions.apple.com, Outside
 host, profile.ess.apple.com, Outside
 host, sas.pcms.apple.com, Outside
 host, gdmf-ados.apple.com, Outside
+host, captive.apple.com, Outside
 host, help.apple.com, Outside
 host, time.apple.com, Outside
 host, time.asia.apple.com, Outside
