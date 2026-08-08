@@ -1,3 +1,5 @@
+host, cdn.openaimerge.com, AI Suite
+host, o207216.ingest.sentry.io, AI Suite
 host, o33249.ingest.sentry.io, AI Suite
 host, ai.com, AI Suite
 host, sydney.bing.com, AI Suite
@@ -34,3 +36,6 @@ host-suffix, featureassets.org, AI Suite
 host-suffix, statsig.com, AI Suite
 host-suffix, statsigapi.net, AI Suite
 host-suffix, oaistatsig.com, AI Suite
+host-suffix, ourdream.ai, AI Suite
+host-suffix, lovescape.com, AI Suite
+host-suffix, copilot.com, AI Suite
