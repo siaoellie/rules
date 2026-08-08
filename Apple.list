@@ -1,3 +1,4 @@
+host, gspe21-ssl.ls.apple.com, DIRECT
 host, is5-ssl.mzstatic.com, DIRECT
 host, updates.cdn-apple.com, DIRECT
 host, swdist.apple.com, DIRECT
@@ -138,6 +139,9 @@ host, profile.ess.apple.com, Outside
 host, sas.pcms.apple.com, Outside
 host, gdmf-ados.apple.com, Outside
 host, captive.apple.com, Outside
+host, amp-api.sandbox.apple.com, Outside
+host, sps-media.apple.com, Outside
+host, np-edge.itunes.apple.com, Outside
 host, help.apple.com, Outside
 host, time.apple.com, Outside
 host, time.asia.apple.com, Outside
