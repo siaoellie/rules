@@ -1,3 +1,4 @@
+host, bpapi.apple.com, DIRECT
 host, gspe21-ssl.ls.apple.com, DIRECT
 host, is5-ssl.mzstatic.com, DIRECT
 host, updates.cdn-apple.com, DIRECT
