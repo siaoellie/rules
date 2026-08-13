@@ -1,3 +1,8 @@
+host, buylite.itunes.apple.com, DIRECT
+host, se-edge.itunes.apple.com, DIRECT
+host, sync.itunes.apple.com, DIRECT
+host, se2.itunes.apple.com, DIRECT
+host, genius-3.itunes.apple.com, DIRECT
 host, bpapi.apple.com, DIRECT
 host, gspe21-ssl.ls.apple.com, DIRECT
 host, is5-ssl.mzstatic.com, DIRECT
@@ -147,6 +152,15 @@ host, aidc.apple.com, Outside
 host, northamerica-1.object-storage.apple.com, Outside
 host, identity.ess.apple.com, Outside
 host, shazam-events.cdn-apple.com, Outside
+host, humb.apple.com, Outside
+host, genius-download.itunes.apple.com, Outside
+host, genius-upload.itunes.apple.com, Outside
+host, hls.itunes.apple.com, Outside
+host, auth.itunes.apple.com, Outside
+host, buy.itunes.apple.com, Outside
+host, albert.apple.com, Outside
+host, static.ess.apple.com, Outside
+host, p35-buy.itunes.apple.com, Outside
 host, help.apple.com, Outside
 host, time.apple.com, Outside
 host, time.asia.apple.com, Outside
