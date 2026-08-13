@@ -164,7 +164,12 @@ host, p35-buy.itunes.apple.com, Outside
 host, help.apple.com, Outside
 host, time.apple.com, Outside
 host, time.asia.apple.com, Outside
+host-suffix, apps.apple.com, DIRECT
+host-suffix, mzstatic.com, DIRECT
+host-suffix, apzones.com, DIRECT
+host-suffix, icloud.com.cn, DIRECT
 host-suffix, push.apple.com, Outside
 host-suffix, icloud.com, Outside
 host-suffix, icloud-content.com, Outside
 host-suffix, tv.apple.com, Outside
+host-suffix, apple-cloudkit.com, Outside
