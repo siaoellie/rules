@@ -1,3 +1,6 @@
+host, cdnperf-rum.cdnetworks.net, DIRECT
+host, cdnperf-rum.quantil.com, DIRECT
+host-suffix, cloudflareperf.com, DIRECT
 host-suffix, visa.com, DIRECT
 host-suffix, byte-test.com, DIRECT
 host-suffix, zhuanzfx.com, DIRECT
