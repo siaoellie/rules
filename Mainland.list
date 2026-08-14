@@ -463,7 +463,6 @@ host-suffix, biliapi.net, DIRECT
 host-suffix, biliapi.com, DIRECT
 host-suffix, bilivideo.com, DIRECT
 host-suffix, hdslb.com, DIRECT
-host, upos-hz-mirrorakam.akamaized.net, DIRECT
 host-suffix, iqiyi.com, DIRECT
 host-suffix, iqiyipic.com, DIRECT
 host-suffix, qy.net, DIRECT
