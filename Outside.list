@@ -276,7 +276,6 @@ host-suffix, xsus.wiki, Outside
 host-suffix, yelp.com, Outside
 host-suffix, bh6707.top, Outside
 host-suffix, zendesk.hk, Outside
-host-suffix, ocsp.godaddy.com, Outside
 host-suffix, whatshub.top, Outside
 host-suffix, segment.io, Outside
 host-suffix, revenuecat.com, Outside
@@ -285,7 +284,6 @@ host-suffix, whatsapp.com, Outside
 host-suffix, whatsapp.net, Outside
 host-suffix, zoom.us, Outside
 host-suffix, zoom.com, Outside
-host-suffix, meet.google.com, Outside
 host-suffix, oculus.com, Outside
 host-suffix, facebook.com, Outside
 host-suffix, instagram.com, Outside
@@ -382,16 +380,8 @@ host-suffix, amazonprimevideos.com, Outside
 host-suffix, amazonvideo.cc, Outside
 host-suffix, amazonvideo.com, Outside
 host-suffix, amazonvideodirect.cc, Outside
-host-suffix, atv-ext.amazon.com, Outside
-host-suffix, atv-ext-eu.amazon.com, Outside
-host-suffix, atv-ext-fe.amazon.com, Outside
-host-suffix, atv-ps.amazon.com, Outside
 host-suffix, atv-ps-eu.amazon.co.uk, Outside
-host-suffix, atv-ps-eu.amazon.com, Outside
 host-suffix, atv-ps-fe.amazon.co.jp, Outside
-host-suffix, atv-ps-fe.amazon.com, Outside
-host-suffix, fls-na.amazon.com, Outside
-host-suffix, media-amazon.com, Outside
 host-suffix, primevideo.cc, Outside
 host-suffix, primevideo.com, Outside
 host-suffix, prime-video.com, Outside
@@ -418,7 +408,6 @@ host-suffix, dazn.com, Outside
 host-suffix, dazndn.com, Outside
 host-suffix, indazn.com, Outside
 host-suffix, indaznlab.com, Outside
-host-suffix, dc1live2lindazn.akamaized.net, Outside
 host-suffix, dc1-lm-live2dazn.secure.footprint.net, Outside
 host-suffix, disneyplus.com, Outside
 host-suffix, disney.api.edge.bamgrid.com, Outside
@@ -438,8 +427,6 @@ host-suffix, prod.hjholdings.tv, Outside
 host-suffix, streaks.jp, Outside
 host-suffix, yb.uncn.jp, Outside
 host-suffix, hulu.com, Outside
-host-suffix, hulu.hb.omtrdc.net, Outside
-host-suffix, hulu.sc.omtrdc.net, Outside
 host-suffix, huluad.com, Outside
 host-suffix, huluim.com, Outside
 host-suffix, hulumail.com, Outside
@@ -459,9 +446,7 @@ host-suffix, kkbox.com.tw, Outside
 host-suffix, kfs.io, Outside
 host-suffix, kktv.me, Outside
 host-suffix, kktv.com.tw, Outside
-host-suffix, d3c7rimkq79yfu.cloudfront.net, Outside
 host-suffix, linetv.tw, Outside
-host-suffix, profile.line-scdn.net, Outside
 host-suffix, max.com, Outside
 host-suffix, discomax.com, Outside
 host-suffix, arkoselabs.com, Outside
@@ -510,13 +495,11 @@ host-suffix, viu.tv, Outside
 host-suffix, viu.now.com, Outside
 host-suffix, googlevideo.com, Outside
 host-suffix, gvt1.com, Outside
-host-suffix, video.google.com, Outside
 host-suffix, youtu.be, Outside
 host-suffix, youtube.com, Outside
 host-suffix, youtubeeducation.com, Outside
 host-suffix, youtubekids.com, Outside
 host-suffix, youtube-nocookie.com, Outside
-host-suffix, youtube-ui.l.google.com, Outside
 host-suffix, yt.be, Outside
 host-suffix, ytimg.com, Outside
 host-suffix, ted.com, Outside
@@ -608,13 +591,9 @@ host-suffix, kk.stream, Outside
 host-suffix, litix.io, Outside
 host-suffix, bing.com, Outside
 host-suffix, tiktok.com, Outside
-host-suffix, ocsp.digicert.com, Outside
 host-suffix, 8-lives-cat.io, Outside
 host-suffix, akamaized.net, Outside
 host-suffix, fastly.net, Outside
-host, avodmp4s3ww-a.akamaihd.net, Outside
-host, gamer-cds.cdn.hinet.net, Outside
-host, gamer2-cds.cdn.hinet.net, Outside
 host, cs428.wpc.edgecastcdn.net, Outside
 host, hulu.com.c.footprint.net, Outside
 host-suffix, crisp.chat, Outside
@@ -773,7 +752,6 @@ host-suffix, comodoca.com, Outside
 host-suffix, psfdpvy.cn, Outside
 host-suffix, joybuy.com, Outside
 host, res.public.onecdn.static.microsoft, Outside
-host, ocsp.comodoca.com, Outside
 host-suffix, ihg.com, Outside
 host-suffix, intercontinental.com, Outside
 host-suffix, holidayinn.com, Outside
@@ -835,7 +813,6 @@ host-suffix, banyantree.com, Outside
 host-suffix, dusit.com, Outside
 host-suffix, melia.com, Outside
 host-suffix, grab.com, Outside
-host, ocsp.usertrust.com, Outside
 host-suffix, singaporeair.com, Outside
 host-suffix, cathaypacific.com, Outside
 host-suffix, evaair.com, Outside
