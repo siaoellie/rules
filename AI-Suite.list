@@ -1,6 +1,7 @@
 host, copilot-proxy.githubusercontent.com, AI Suite
 host, origin-tracker.githubusercontent.com, AI Suite
-host, copilot-telemetry.githubusercontent.com, AI Suitehost, cdn.openaimerge.com, AI Suite
+host, copilot-telemetry.githubusercontent.com, AI Suite
+host, cdn.openaimerge.com, AI Suite
 host, o207216.ingest.sentry.io, AI Suite
 host, o33249.ingest.sentry.io, AI Suite
 host, ai.com, AI Suite
