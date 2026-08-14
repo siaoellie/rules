@@ -598,7 +598,6 @@ host-suffix, litix.io, Outside
 host-suffix, bing.com, Outside
 host-suffix, tiktok.com, Outside
 host-suffix, 8-lives-cat.io, Outside
-host-suffix, akamaized.net, Outside
 host-suffix, fastly.net, Outside
 host, cs428.wpc.edgecastcdn.net, Outside
 host, hulu.com.c.footprint.net, Outside
