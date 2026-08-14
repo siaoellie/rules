@@ -2,7 +2,6 @@ host-suffix, worldssl.net, Outside
 host-suffix, cdn77.org, Outside
 host-suffix, b-cdn.net, Outside
 host-suffix, swiftlycdn.net, Outside
-host-suffix, ooklaserver.net, Outside
 host-suffix, zenlayer.net, Outside
 host-suffix, zenlayer.com, Outside
 host-suffix, zenlayer.in, Outside
@@ -83,11 +82,6 @@ host, stun.nextcloud.com, Outside
 host, ipv6.am.i.mullvad.net, Outside
 host, ipv4.am.i.mullvad.net, Outside
 host, api.ip.sb, Outside
-host, circle-flags.cdn.skk.moe, Outside
-host, ip.skk.moe, Outside
-host, ip.api.skk.moe, Outside
-host, ipv4-ip.api.skk.moe, Outside
-host, cdn.skk.moe, Outside
 host-suffix, stripecdn.com, Outside
 host, checkout-cookies.link.com, Outside
 host-suffix, auth0.com, Outside
