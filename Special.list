@@ -41,5 +41,5 @@ host-suffix, zte.home, DIRECT
 host-suffix, localhost.ptlogin2.qq.com, DIRECT
 host-suffix, localhost.sec.qq.com, DIRECT
 host-suffix, gemalto.com, Outside
-host-suffix, mastercard.com, Outside
+host-suffix, mastercard.com, DIRECT
 host-suffix, globalsign.com, Outside
