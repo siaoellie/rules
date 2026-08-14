@@ -175,3 +175,5 @@ host-suffix, icloud.com, Outside
 host-suffix, icloud-content.com, Outside
 host-suffix, tv.apple.com, Outside
 host-suffix, apple-cloudkit.com, Outside
+host-suffix, shazam.com, Outside
+host-suffix, ampaeservices.com, Outside
