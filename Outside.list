@@ -1,3 +1,10 @@
+host-suffix, ingest.sentry.io, Outside
+host-suffix, byteplus.com, Outside
+host-suffix, statsigcdn.com, Outside
+host-suffix, featuregates.org, Outside
+host-suffix, featureassets.org, Outside
+host-suffix, statsig.com, Outside
+host-suffix, statsigapi.net, Outside
 host-suffix, worldssl.net, Outside
 host-suffix, cdn77.org, Outside
 host-suffix, b-cdn.net, Outside
