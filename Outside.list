@@ -5,6 +5,8 @@ host-suffix, b-cdn.net, Outside
 host-suffix, swiftlycdn.net, Outside
 host-suffix, ooklaserver.net, Outside
 host-suffix, zenlayer.net, Outside
+host-suffix, zenlayer.com, Outside
+host-suffix, zenlayer.in, Outside
 host-suffix, mncdn.com, Outside
 host-suffix, cachefly.net, Outside
 host-suffix, gcping.com, Outside
