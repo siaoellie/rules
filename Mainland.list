@@ -1,3 +1,4 @@
+host-suffix, ooklaserver.net, DIRECT
 host, cdnperf-rum.cdnetworks.net, DIRECT
 host, cdnperf-rum.quantil.com, DIRECT
 host-suffix, cloudflareperf.com, DIRECT
