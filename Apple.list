@@ -1,3 +1,4 @@
+host, cma.itunes.apple.com, DIRECT
 host, buylite.itunes.apple.com, DIRECT
 host, se-edge.itunes.apple.com, DIRECT
 host, sync.itunes.apple.com, DIRECT
@@ -164,6 +165,7 @@ host, p35-buy.itunes.apple.com, Outside
 host, help.apple.com, Outside
 host, time.apple.com, Outside
 host, time.asia.apple.com, Outside
+host, pba.apple.com, Outside
 host-suffix, apps.apple.com, DIRECT
 host-suffix, mzstatic.com, DIRECT
 host-suffix, apzones.com, DIRECT
