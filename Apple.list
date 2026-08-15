@@ -166,6 +166,7 @@ host, help.apple.com, Outside
 host, time.apple.com, Outside
 host, time.asia.apple.com, Outside
 host, pba.apple.com, Outside
+host, serverstatus.apple.com, Outside
 host-suffix, apps.apple.com, DIRECT
 host-suffix, mzstatic.com, DIRECT
 host-suffix, apzones.com, DIRECT
