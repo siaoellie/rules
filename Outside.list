@@ -1,3 +1,5 @@
+host-suffix, ingest.us.sentry.io, Outside
+host-suffix, ingest.de.sentry.io, Outside
 host-suffix, ingest.sentry.io, Outside
 host-suffix, byteplus.com, Outside
 host-suffix, statsigcdn.com, Outside
