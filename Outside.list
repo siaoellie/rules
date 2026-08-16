@@ -1,3 +1,16 @@
+host-suffix, speedtest.net, Outside
+host-suffix, nfcloud.one, Outside
+host-suffix, byspotify.com, Outside
+host-suffix, spotify.com, Outside
+host-suffix, tvsquared.com, Outside
+host-suffix, impactcdn.com, Outside
+host-suffix, mountain.com, Outside
+host-suffix, salesloft.com, Outside
+host-suffix, adentifi.com, Outside
+host-suffix, sjv.io, Outside
+host-suffix, g2crowd.com, Outside
+host-suffix, ojrq.net, Outside
+host, r.cdnst.net, Outside
 host-suffix, niceincontact.com, Outside
 host-suffix, usercentrics.eu, Outside
 host-suffix, userway.org, Outside
