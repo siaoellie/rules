@@ -1,3 +1,6 @@
+host-suffix, staticintl.cloudcachetci.com, DIRECT
+host-suffix, cdnstatic.tencentcs.com, DIRECT
+host-suffix, eo-static-perfops.qcloudcdn.com, DIRECT
 host-suffix, kamicode.cn, DIRECT
 host-suffix, bytenew.com, DIRECT
 host-suffix, zhonganfengshang.com, DIRECT
