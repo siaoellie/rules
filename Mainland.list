@@ -358,7 +358,6 @@ host-suffix, nuomi.com, DIRECT
 host-suffix, ourdvs.com, DIRECT
 host-suffix, pgyer.com, DIRECT
 host-suffix, pniao.com, DIRECT
-host-suffix, pstatp.com, DIRECT
 host-suffix, qbox.me, DIRECT
 host-suffix, qcloud.com, DIRECT
 host-suffix, qdaily.com, DIRECT
@@ -383,7 +382,6 @@ host-suffix, sinaimg.cn, DIRECT
 host-suffix, sinaimg.com, DIRECT
 host-suffix, smartisan.com, DIRECT
 host-suffix, smzdm.com, DIRECT
-host-suffix, snssdk.com, DIRECT
 host-suffix, snwx.com, DIRECT
 host-suffix, so.com, DIRECT
 host-suffix, sogou.com, DIRECT
@@ -445,8 +443,6 @@ host-suffix, zhimg.com, DIRECT
 host-suffix, zimuzu.tv, DIRECT
 host-suffix, zmz002.com, DIRECT
 host-suffix, gov.cn, DIRECT
-host-suffix, byteimg.com, DIRECT
-host-suffix, bytedance.com, DIRECT
 host-suffix, douyincdn.com, DIRECT
 host-suffix, douyinpic.com, DIRECT
 host-suffix, douyinstatic.com, DIRECT
@@ -559,7 +555,6 @@ host-suffix, alibaba-inc.com, DIRECT
 host-suffix, dingtalk.com, DIRECT
 host-suffix, ucweb.com, DIRECT
 host-suffix, oceanengine.com, DIRECT
-host-suffix, bdurl.net, DIRECT
 host-suffix, ctobsnssdk.com, DIRECT
 host-suffix, bytescm.com, DIRECT
 host-suffix, ubixioe.com, DIRECT
