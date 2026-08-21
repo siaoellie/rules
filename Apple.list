@@ -1,3 +1,4 @@
+host, aod.itunes.apple.com, DIRECT
 host, search.itunes.apple.com, DIRECT
 host, cma.itunes.apple.com, DIRECT
 host, buylite.itunes.apple.com, DIRECT
@@ -167,6 +168,8 @@ host, help.apple.com, Outside
 host, time.apple.com, Outside
 host, time.asia.apple.com, Outside
 host, pba.apple.com, Outside
+host, genius-download-2.itunes.apple.com, Outside
+host, genius-upload-2.itunes.apple.com, Outside
 host, serverstatus.apple.com, Outside
 host-suffix, apps.apple.com, DIRECT
 host-suffix, mzstatic.com, DIRECT
