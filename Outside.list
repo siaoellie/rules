@@ -1,3 +1,4 @@
+host, perfops2.byte-test.com, Outside
 host-suffix, cdnperf-rum.cdnetworks.net, Outside
 host-suffix, byteoversea.com, Outside
 host-suffix, byteoversea.net, Outside
