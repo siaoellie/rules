@@ -1,3 +1,4 @@
+host, perfops.byte-test.com, DIRECT
 host-suffix, bytegecko.com, DIRECT
 host-suffix, ugsdk.cn, DIRECT
 host-suffix, cjjd14.com, DIRECT
