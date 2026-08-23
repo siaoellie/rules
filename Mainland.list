@@ -12,7 +12,6 @@ host-suffix, byteeffecttos.com, DIRECT
 host-suffix, ydycdn.com, DIRECT
 host-suffix, hongyibo.com.cn, DIRECT
 host-suffix, cdn-go.cn, DIRECT
-host-suffix, staticintl.cloudcachetci.com, DIRECT
 host-suffix, cdnstatic.tencentcs.com, DIRECT
 host-suffix, eo-static-perfops.qcloudcdn.com, DIRECT
 host-suffix, kamicode.cn, DIRECT
@@ -49,7 +48,6 @@ host-suffix, 127.net, DIRECT
 host-suffix, marmot-cloud.com, DIRECT
 host-suffix, jiediankeji.com, DIRECT
 host-suffix, zhumanggroup.net, DIRECT
-host-suffix, net.cn, DIRECT
 host-suffix, jslife.com.cn, DIRECT
 host-suffix, danhuangyun.com, DIRECT
 host-suffix, dingxiang-inc.com, DIRECT
@@ -184,7 +182,6 @@ host-suffix, dareu.com, DIRECT
 host-suffix, intel.cn, DIRECT
 host-suffix, nvidia.cn, DIRECT
 host-suffix, vivo.com.cn, DIRECT
-host-suffix, petkt.com, DIRECT
 host-suffix, alipay-eco.com, DIRECT
 host-suffix, swirebev.com, DIRECT
 host-suffix, linkh5.xyz, DIRECT
@@ -263,7 +260,6 @@ host-suffix, 95516.com, DIRECT
 host-suffix, airhotels.cn, DIRECT
 host-suffix, aliapp.org, DIRECT
 host-suffix, alibaba.com, DIRECT
-host-suffix, alibabacloud.com, DIRECT
 host-suffix, alicdn.com, DIRECT
 host-suffix, alipay.com, DIRECT
 host-suffix, alipayobjects.com, DIRECT
@@ -500,7 +496,6 @@ host-suffix, cmvideo.cn, DIRECT
 host-suffix, migu.cn, DIRECT
 host-suffix, miguvideo.com, DIRECT
 host-suffix, tencentmusic.com, DIRECT
-host-suffix, hik-connect.com, DIRECT
 host-suffix, hikvision.com, DIRECT
 host-suffix, hsbc.com.hk, DIRECT
 host-suffix, autocad360.com, DIRECT
@@ -512,7 +507,6 @@ host-suffix, starbucks.com.cn, DIRECT
 host-suffix, starbucks.cn, DIRECT
 host-suffix, haidilao.com, DIRECT
 host-suffix, ys7.com, DIRECT
-host-suffix, ezvizlife.com, DIRECT
 host-suffix, ezviz.com, DIRECT
 host-suffix, huolala.com, DIRECT
 host-suffix, huolala.cn, DIRECT
