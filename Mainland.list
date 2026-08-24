@@ -1,5 +1,4 @@
 host-suffix, mescroll.com, DIRECT
-host, perfops.byte-test.com, DIRECT
 host-suffix, bytegecko.com, DIRECT
 host-suffix, ugsdk.cn, DIRECT
 host-suffix, cjjd14.com, DIRECT
@@ -14,20 +13,14 @@ host-suffix, ydycdn.com, DIRECT
 host-suffix, hongyibo.com.cn, DIRECT
 host-suffix, cdn-go.cn, DIRECT
 host-suffix, cdnstatic.tencentcs.com, DIRECT
-host-suffix, eo-static-perfops.qcloudcdn.com, DIRECT
 host-suffix, kamicode.cn, DIRECT
 host-suffix, bytenew.com, DIRECT
 host-suffix, zhonganfengshang.com, DIRECT
 host-suffix, enmonster.com, DIRECT
-host, example.com, DIRECT
 host-suffix, cxbbattery.com, DIRECT
 host-suffix, dxmjinr.com, DIRECT
 host-suffix, dxmpay.com, DIRECT
 host-suffix, nike.com.cn, DIRECT
-host-suffix, ooklaserver.net, DIRECT
-host, cdnperf-rum.cdnetworks.net, DIRECT
-host, cdnperf-rum.quantil.com, DIRECT
-host-suffix, cloudflareperf.com, DIRECT
 host-suffix, visa.com, DIRECT
 host-suffix, zhuanzfx.com, DIRECT
 host-suffix, ip138.com, DIRECT
@@ -87,7 +80,6 @@ host-suffix, sensorsdata.cn, DIRECT
 host-suffix, knet.cn, DIRECT
 host-suffix, tingyun.com, DIRECT
 host-suffix, tongdun.net, DIRECT
-host-suffix, trustdecision.com, DIRECT
 host-suffix, govwza.cn, DIRECT
 host-suffix, dper.com, DIRECT
 host-suffix, csair.cn, DIRECT
@@ -207,7 +199,6 @@ host-suffix, hiksdk.com, DIRECT
 host-suffix, hik-cloud.com, DIRECT
 host-suffix, bvlmt.top, DIRECT
 host-suffix, visioncloudapi.com, DIRECT
-host-suffix, interomni-plus.com, DIRECT
 host-suffix, parijqn.cn, DIRECT
 host-suffix, tingbook.com, DIRECT
 host-suffix, 3.cn, DIRECT
