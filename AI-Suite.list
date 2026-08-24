@@ -6,7 +6,6 @@ host, o207216.ingest.sentry.io, AI Suite
 host, o33249.ingest.sentry.io, AI Suite
 host, ai.com, AI Suite
 host, sydney.bing.com, AI Suite
-host, rum.browser-intake-datadoghq.com, AI Suite
 host, generativelanguage.googleapis.com, AI Suite
 host, proactivebackend-pa.googleapis.com, AI Suite
 host, ai.google.dev, AI Suite
