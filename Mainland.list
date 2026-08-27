@@ -1,13 +1,5 @@
-host-suffix, ipleak.net, DIRECT
-host-suffix, ip-api.com, DIRECT
-host-suffix, browserleaks.net, DIRECT
-host-suffix, browserleaks.org, DIRECT
-host-suffix, ip2location.io, DIRECT
-host-suffix, ip2location.com, DIRECT
-host, api.ip.sb, DIRECT
-host, ip.skk.moe, DIRECT
-host, ip.api.skk.moe, DIRECT
-host-suffix, ipify.org, DIRECT
+host, 6.ipw.cn, DIRECT
+host, test.ipw.cn, DIRECT
 host-suffix, mescroll.com, DIRECT
 host-suffix, bytegecko.com, DIRECT
 host-suffix, ugsdk.cn, DIRECT
