@@ -72,14 +72,9 @@ host-suffix, mncdn.com, Outside
 host-suffix, cachefly.net, Outside
 host-suffix, gcping.com, Outside
 host-suffix, hanime1.me, Outside
-host-suffix, ipleak.net, Outside
-host-suffix, ip-api.com, Outside
-host-suffix, browserleaks.net, Outside
-host-suffix, browserleaks.org, Outside
 host-suffix, surfsharkdns.com, Outside
 host-suffix, fastly-analytics.com, Outside
 host-suffix, perfops.io, Outside
-host-suffix, skk.moe, Outside
 host-suffix, medium.com, Outside
 host-suffix, nodejs.org, Outside
 host-suffix, crunchyroll.com, Outside
@@ -130,8 +125,6 @@ host-suffix, foreo.com, Outside
 host-suffix, lelo.com, Outside
 host-suffix, klaviyo.com, Outside
 host-suffix, amazon.com, Outside
-host-suffix, ip2location.io, Outside
-host-suffix, ip2location.com, Outside
 host-suffix, onzoom.com, Outside
 host-suffix, javhdhello.com, Outside
 host-suffix, storagexhd.com, Outside
@@ -144,7 +137,6 @@ host, global.stun.twilio.com, Outside
 host, stun.nextcloud.com, Outside
 host, ipv6.am.i.mullvad.net, Outside
 host, ipv4.am.i.mullvad.net, Outside
-host, api.ip.sb, Outside
 host-suffix, stripecdn.com, Outside
 host, checkout-cookies.link.com, Outside
 host-suffix, auth0.com, Outside
@@ -603,7 +595,6 @@ host-suffix, trakt.tv, Outside
 host-suffix, gravatar.com, Outside
 host-suffix, adaptytech.com, Outside
 host-suffix, adapty.io, Outside
-host-suffix, ipify.org, Outside
 host-suffix, mixpanel.com, Outside
 host-suffix, branch.io, Outside
 host-suffix, zendesk.com, Outside
