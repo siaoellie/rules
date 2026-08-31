@@ -66,7 +66,7 @@ host-suffix, statsigapi.net, Outside
 host-suffix, worldssl.net, Outside
 host-suffix, cdn77.org, Outside
 host-suffix, b-cdn.net, Outside
-host-suffix, swiftlycdn.net, Outside
+host-suffix, swiftycdn.net, Outside
 host-suffix, zenlayer.net, Outside
 host-suffix, zenlayer.com, Outside
 host-suffix, zenlayer.in, Outside
@@ -179,7 +179,6 @@ host-suffix, italki.com, Outside
 host-suffix, fastlink.ws, Outside
 host-suffix, fansone.co, Outside
 host-suffix, boostnet4.com, Outside
-host-suffix, b-ok.xyz, Outside
 host-suffix, bh5271.top, Outside
 host-suffix, 423down.com, Outside
 host-suffix, toomics.com, Outside
@@ -288,7 +287,6 @@ host-suffix, eu-pet.com, Outside
 host-suffix, fbsbx.com, Outside
 host-suffix, worldathletics.org, Outside
 host-suffix, squawka.com, Outside
-host-suffix, bdustatic.com, Outside
 host-suffix, mcdonalds.com, Outside
 host-suffix, ikea.com, Outside
 host-suffix, uniqlo.com, Outside
@@ -637,7 +635,6 @@ host-suffix, awswaf.com, Outside
 host-suffix, optimizely.com, Outside
 host-suffix, vv1865.com, Outside
 host-suffix, azurewebsites.net, Outside
-host-suffix, data.microsoft.com, Outside
 host-suffix, cloudfront.net, Outside
 host-suffix, jwplatform.com, Outside
 host-suffix, jwpsrv.com, Outside
