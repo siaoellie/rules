@@ -1,3 +1,5 @@
+host, mssdk.bytedance.com, DIRECT
+host, abtestvm.bytedance.com, DIRECT
 host-suffix, gcloudcache.com, DIRECT
 host-suffix, volcengine.com, DIRECT
 host-suffix, volcbiz.com, DIRECT
