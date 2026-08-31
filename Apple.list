@@ -1,3 +1,5 @@
+host, certs.apple.com, DIRECT
+host, osxapps.itunes.apple.com, DIRECT
 host, aod.itunes.apple.com, DIRECT
 host, search.itunes.apple.com, DIRECT
 host, cma.itunes.apple.com, DIRECT
@@ -96,6 +98,8 @@ host, wallet.cdn-apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
 host, weatherkit.apple.com, DIRECT
 host, xp.apple.com, DIRECT
+host, ec.pcms.apple.com, Outside
+host, register.appattest.apple.com, Outside
 host, cma2.itunes.apple.com, Outside
 host, amp-api.videos.apple.com, Outside
 host, uts-api.itunes.apple.com, Outside
