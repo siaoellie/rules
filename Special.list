@@ -1,6 +1,7 @@
 host, msmp.abchina.com.cn, REJECT
 host, btrace.qq.com, REJECT
 host, mtrace.qq.com, REJECT
+host-suffix, bdustatic.com, REJECT
 host, dns.alidns.com, DIRECT
 host, doh.pub, DIRECT
 host, dns.pub, DIRECT
