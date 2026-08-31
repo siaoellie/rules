@@ -1,3 +1,16 @@
+host-suffix, gcloudcache.com, DIRECT
+host-suffix, volcengine.com, DIRECT
+host-suffix, volcbiz.com, DIRECT
+host-suffix, bytetos.com, DIRECT
+host-suffix, ibytedapm.com, DIRECT
+host-suffix, bytetcc.com, DIRECT
+host-suffix, bytednsdoc.com, DIRECT
+host-suffix, snssdk.com, DIRECT
+host-suffix, feelgood.cn, DIRECT
+host-suffix, chuangyuejoy.com, DIRECT
+host-suffix, bytedeliver.com, DIRECT
+host-suffix, bytegoofy.com, DIRECT
+host-suffix, huoshanstatic.com, DIRECT
 host, 6.ipw.cn, DIRECT
 host, test.ipw.cn, DIRECT
 host-suffix, mescroll.com, DIRECT
