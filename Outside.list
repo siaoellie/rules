@@ -1,3 +1,5 @@
+host, volcengine-boe.bytedance.net, Outside
+host-suffix, volcanicengine.com, Outside
 host, staticintl.cloudcachetci.com, Outside
 host-suffix, alibabacloud.com, Outside
 host-suffix, hik-connect.com, Outside
