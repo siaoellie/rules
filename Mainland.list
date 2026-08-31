@@ -29,7 +29,6 @@ host-suffix, byteeffecttos.com, DIRECT
 host-suffix, ydycdn.com, DIRECT
 host-suffix, hongyibo.com.cn, DIRECT
 host-suffix, cdn-go.cn, DIRECT
-host-suffix, cdnstatic.tencentcs.com, DIRECT
 host-suffix, kamicode.cn, DIRECT
 host-suffix, bytenew.com, DIRECT
 host-suffix, zhonganfengshang.com, DIRECT
@@ -112,7 +111,7 @@ host-suffix, gdwxyf.com, DIRECT
 host-suffix, adcomeon.com, DIRECT
 host-suffix, postar.cn, DIRECT
 host-suffix, alipay.com.cn, DIRECT
-host-suffix, smoqflycloud.com, DIRECT
+host-suffix, smogflycloud.com, DIRECT
 host-suffix, unisiot.com, DIRECT
 host-suffix, wuchucloud.net, DIRECT
 host-suffix, kemai.com.cn, DIRECT
@@ -214,7 +213,7 @@ host-suffix, xtransfer.cn, DIRECT
 host-suffix, xfltd.org, DIRECT
 host-suffix, hiksdk.com, DIRECT
 host-suffix, hik-cloud.com, DIRECT
-host-suffix, bvlmt.top, DIRECT
+host-suffix, bvmlt.top, DIRECT
 host-suffix, visioncloudapi.com, DIRECT
 host-suffix, parijqn.cn, DIRECT
 host-suffix, tingbook.com, DIRECT
@@ -671,7 +670,6 @@ host-suffix, qihu.com, DIRECT
 host-suffix, gkkqay.com, DIRECT
 host-suffix, cdn.bootcss.com, DIRECT
 host-suffix, optimalpacking.cn, DIRECT
-host-suffix, naifeistation.com, DIRECT
 host-suffix, googleadsserving.cn, DIRECT
 host-suffix, cup.com.cn, DIRECT
 host-suffix, apitd.net, DIRECT
