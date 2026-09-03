@@ -7,6 +7,7 @@ host, doh.pub, DIRECT
 host, dns.pub, DIRECT
 host, dot.pub, DIRECT
 host, connect.rom.miui.com, DIRECT
+host-suffix, alidns.com, DIRECT
 host-suffix, volcdns.pub, DIRECT
 host-suffix, wgetcloud.online, Outside
 host-suffix, quantumult.app, Outside
