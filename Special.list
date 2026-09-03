@@ -1,6 +1,4 @@
 host, msmp.abchina.com.cn, REJECT
-host, btrace.qq.com, REJECT
-host, mtrace.qq.com, REJECT
 host, dns.alidns.com, DIRECT
 host, doh.pub, DIRECT
 host, dns.pub, DIRECT
@@ -42,3 +40,6 @@ host-suffix, zte.home, DIRECT
 host, localhost.ptlogin2.qq.com, DIRECT
 host, localhost.sec.qq.com, DIRECT
 host-suffix, mastercard.com, DIRECT
+host-suffix, visa.com, DIRECT
+host-suffix, business.hsbc.com.hk, DIRECT
+host-suffix, app.autocad360.com, DIRECT
