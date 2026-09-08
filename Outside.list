@@ -1,3 +1,15 @@
+host-suffix, iherb.com, Outside
+host-suffix, iherb.biz, Outside
+host-suffix, images-iherb.com, Outside
+host-suffix, forter.com, Outside
+host-suffix, brsrvr.com, Outside
+host-suffix, perimeterx.net, Outside
+host-suffix, podscribe.com, Outside
+host-suffix, px-cloud.net, Outside
+host-suffix, braze.com, Outside
+host-suffix, braintreegateway.com, Outside
+host-suffix, impact.com, Outside
+host-suffix, simonsignal.com, Outside
 host, volcengine-boe.bytedance.net, Outside
 host, detect-online.volcanicengine.com, Outside
 host, staticintl.cloudcachetci.com, Outside
