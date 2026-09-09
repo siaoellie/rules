@@ -42,4 +42,5 @@ host, localhost.sec.qq.com, DIRECT
 host-suffix, mastercard.com, DIRECT
 host-suffix, visa.com, DIRECT
 host-suffix, business.hsbc.com.hk, DIRECT
+host-suffix, hsbc.com.hk, Outside
 host-suffix, app.autocad360.com, DIRECT
