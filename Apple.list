@@ -1,3 +1,5 @@
+host, km.support.apple.com, DIRECT
+host, appleid.cdn-apple.com, DIRECT
 host, tr.iadsdk.apple.com, DIRECT
 host, store.storeimages.cdn-apple.com, DIRECT
 host, store.storevideos.cdn-apple.com, DIRECT
