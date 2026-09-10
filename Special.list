@@ -44,3 +44,5 @@ host-suffix, visa.com, DIRECT
 host-suffix, business.hsbc.com.hk, DIRECT
 host-suffix, hsbc.com.hk, Outside
 host-suffix, app.autocad360.com, DIRECT
+host-suffix, skk.moe, Outside
+host-suffix, ip.sb, Outside
