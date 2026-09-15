@@ -103,6 +103,8 @@ host, wallet.cdn-apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
 host, weatherkit.apple.com, DIRECT
 host, xp.apple.com, DIRECT
+host, configuration-carry.ls.apple.com, Outside
+host, gsa-gpk.apple.com, Outside
 host, radio-activity.itunes.apple.com, Outside
 host, sse-ws.apple.com, Outside
 host, supportmetrics.apple.com, Outside
