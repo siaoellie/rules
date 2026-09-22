@@ -1,3 +1,5 @@
+host, tj-pod1-smp-device-asset.apple.com, DIRECT
+host, sh-pod1-smp-device.apple.com, DIRECT
 host, km.support.apple.com, DIRECT
 host, appleid.cdn-apple.com, DIRECT
 host, tr.iadsdk.apple.com, DIRECT
@@ -103,6 +105,14 @@ host, wallet.cdn-apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
 host, weatherkit.apple.com, DIRECT
 host, xp.apple.com, DIRECT
+host, idv.cdn-apple.com, Outside
+host, nc-pod8-smp-device.apple.com, Outside
+host, smp-paymentservices.apple.com, Outside
+host, odin-signals.apple.com, Outside
+host, ifs-wpc-device.apple.com, Outside
+host, nc-pod8-smp-device-asset.apple.com, Outside
+host, pos-device.apple.com, Outside
+host, chickadee.smoot.apple.com, Outside
 host, nc-pod12-smp-device.apple.com, Outside
 host, configuration-carry.ls.apple.com, Outside
 host, gsa-gpk.apple.com, Outside
