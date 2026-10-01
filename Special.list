@@ -1,3 +1,5 @@
+host, btrace.qq.com, REJECT
+host, mtrace.qq.com, REJECT
 host, msmp.abchina.com.cn, REJECT
 host, dns.alidns.com, DIRECT
 host, doh.pub, DIRECT
