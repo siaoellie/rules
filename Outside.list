@@ -1,3 +1,5 @@
+host-suffix, weather.com, Outside
+host-suffix, ctfassets.net, Outside
 host-suffix, mail.me.com, Outside
 host, time.windows.com, Outside
 host-suffix, human-led.org, Outside
