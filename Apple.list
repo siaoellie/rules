@@ -1,3 +1,6 @@
+host, sb.music.apple.com, DIRECT
+host, swcdn.apple.com, DIRECT
+host, shazam-insights.cdn-apple.com, DIRECT
 host, tj-pod1-smp-device-asset.apple.com, DIRECT
 host, sh-pod1-smp-device.apple.com, DIRECT
 host, km.support.apple.com, DIRECT
