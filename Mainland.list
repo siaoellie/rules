@@ -1,3 +1,8 @@
+host-suffix, dnspod.cn, DIRECT
+host-suffix, tencent-cloud.cn, DIRECT
+host-suffix, tencent.cn, DIRECT
+host-suffix, woa.com, DIRECT
+host, qr06.cn, DIRECT
 host-suffix, douyinvod.com, DIRECT
 host, fonts.bytedance.com, DIRECT
 host-suffix, byteimg.com, DIRECT
