@@ -1,3 +1,6 @@
+host-suffix, bblmw.com, Outside
+host-suffix, geelabapi.com, Outside
+host, us.mqtt.bambulab.com, Outside
 host, stun.services.mozilla1.com, Outside
 host-suffix, skk.moe, Outside
 host-suffix, ip.sb, Outside
