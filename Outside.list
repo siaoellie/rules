@@ -1,3 +1,4 @@
+host, stun.services.mozilla1.com, Outside
 host-suffix, skk.moe, Outside
 host-suffix, ip.sb, Outside
 host-suffix, mann-filter.com, Outside
