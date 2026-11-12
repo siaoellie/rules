@@ -1,3 +1,4 @@
+host, sequoia.apple.com, DIRECT
 host, apptrailers.itunes.apple.com, DIRECT
 host, sb.music.apple.com, DIRECT
 host, swcdn.apple.com, DIRECT
