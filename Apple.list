@@ -1,3 +1,4 @@
+host, generic-edge.infoapps.apple.com, DIRECT
 host, fp-assets.cdn-apple.com, DIRECT
 host, sequoia.apple.com, DIRECT
 host, apptrailers.itunes.apple.com, DIRECT
