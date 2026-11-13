@@ -1,3 +1,6 @@
+host, act-iot-eula-jp-01.azure-devices.net, Outside
+host, global.azure-devices-provisioning.net, Outside
+host, offer-service.mysora.net, Outside
 host-suffix, fontawesome.com, Outside
 host-suffix, cdnfonts.com, Outside
 host-suffix, cdn.shopify.com, Outside
