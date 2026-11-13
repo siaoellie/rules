@@ -111,6 +111,11 @@ host, wallet.cdn-apple.com, DIRECT
 host, weather-map2.apple.com, DIRECT
 host, weatherkit.apple.com, DIRECT
 host, xp.apple.com, DIRECT
+host, config-chr.health.apple.com, Outside
+host, iwork-events.apple.com, Outside
+host, app-events.infoapps.apple.com, Outside
+host, digital-assets-edge.infoapps.apple.com, Outside
+host, infoapps-auth-service.infoapps.apple.com, Outside
 host, p72-buy.itunes.apple.com, Outside
 host, api.smoot.apple.com, Outside
 host, challenge.gc.apple.com, Outside
