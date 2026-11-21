@@ -1,3 +1,4 @@
+host, init-kt.apple.com, DIRECT
 host, ml.cdn-apple.com, DIRECT
 host, generic-edge.infoapps.apple.com, DIRECT
 host, fp-assets.cdn-apple.com, DIRECT
