@@ -1,3 +1,8 @@
+host-suffix, cloudflare-cn.com, DIRECT
+host-suffix, byte-test.com, DIRECT
+host-suffix, deepseek.com, DIRECT
+host-suffix, polywuye.com, DIRECT
+host-suffix, yy.com, DIRECT
 host-suffix, kapark.cn, DIRECT
 host-suffix, cloudbaseapp.cn, DIRECT
 host-suffix, webank.com, DIRECT
