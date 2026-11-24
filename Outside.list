@@ -1,3 +1,11 @@
+host, one.one.one.one, Outside
+host-suffix, mlstatic.com, Outside
+host-suffix, steampowered.com, Outside
+host-suffix, huggingface.co, Outside
+host-suffix, docker.io, Outside
+host-suffix, pypi.org, Outside
+host-suffix, yastatic.net, Outside
+host-suffix, nintendo.co.jp, Outside
 host-suffix, iplocate.io, Outside
 host-suffix, freeipapi.com, Outside
 host-suffix, archive.org, Outside
