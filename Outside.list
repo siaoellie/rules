@@ -1,3 +1,7 @@
+host-suffix, iplocate.io, Outside
+host-suffix, freeipapi.com, Outside
+host-suffix, archive.org, Outside
+host-suffix, quzei.com, Outside
 host-suffix, cloudflare-quic.com, Outside
 host-suffix, quicwg.org, Outside
 host-suffix, sentry.io, Outside
