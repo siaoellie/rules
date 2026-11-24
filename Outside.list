@@ -1,3 +1,9 @@
+host-suffix, cloudflare-quic.com, Outside
+host-suffix, quicwg.org, Outside
+host-suffix, sentry.io, Outside
+host-suffix, stun.im, Outside
+host, stun.freeswitch.org, Outside
+host, stun.voip.blackberry.com, Outside
 host-suffix, okx.com, Outside
 host-suffix, ip.cx, Outside
 host-suffix, stat.re, Outside
