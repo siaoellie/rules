@@ -229,6 +229,7 @@ host-suffix, apps.apple.com, DIRECT
 host-suffix, mzstatic.com, DIRECT
 host-suffix, apzones.com, DIRECT
 host-suffix, icloud.com.cn, DIRECT
+host-suffix, icloud-content.com.cn, DIRECT
 host-suffix, push.apple.com, Outside
 host-suffix, icloud.com, Outside
 host-suffix, icloud-content.com, Outside
